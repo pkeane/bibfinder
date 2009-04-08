@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 
 import datetime
-import markdown
 import os
 import random
 import re
@@ -49,7 +48,7 @@ class BaseRequestHandler(webapp.RequestHandler):
       'login_url': users.CreateLoginURL(self.request.uri),
       'logout_url': users.CreateLogoutURL('http://' + self.request.host + '/'),
       'debug': self.request.get('deb'),
-      'application_name': 'Simple Notepad',
+      'application_name': 'BibFinder',
     }
     values.update(template_values)
     directory = os.path.dirname(__file__)

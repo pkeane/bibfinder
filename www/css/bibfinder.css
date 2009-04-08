@@ -9,25 +9,6 @@ h3.alert {
 	color: red;
 }
 
-pre {
-	color: #666;
-	padding: 12px;
-	background: #eee;
-	-moz-border-radius: 5px; 
-	-webkit-border-radius: 5px; 
-	margin-top: 2px;
-}
-
-pre code {
-	width: 400px;
-	white-space: pre-wrap; 
-}
-
-div.text {
-width: 720px;
-margin: 12px auto;
-}
-
 .hide {
 	display: none;
 }
@@ -97,7 +78,7 @@ body.l1 #primary {
 }
 
 #footer{
-	background:#525252;
+	background:#bbbbbb;
 	height: 3em;
 }
 
