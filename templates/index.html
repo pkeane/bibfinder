@@ -6,10 +6,14 @@
 <div class="login content">
 	<h1><a href="/">BibFinder</a></h1>
 	{% if user %}
+	<!--
 	<span class="item nickname">{{ user.nickname }}</span> |
 	<span class="item"><a href="{{ logout_url|escape }}">Sign out</a></span>
+	-->
 	{% else %}
+	<!--
 	<span class="item"><a href="{{ login_url|escape }}">Sign in</a></span>
+	-->
 	{% endif %}
 </div>
 {% endblock %}
@@ -17,27 +21,19 @@
 {% block content %}
 <div id="primary">
 	<div class="content">
-		<form method="get">
-			<label for="isbn">ISBN</label>
-			<input type="text" id="isbn" name="isbn">
-			<p>
-			<input type="submit" value="find">
-			</p>
-		</form>
+		{% if isbn %}
+		{{ isbn }}
+		{% endif %}
 	</div>
 </div>
 
 <div id="secondary">
 	<div class="content">
-		<ul>
-			{% for n in notes %}
-			<li>
-			<a href="note/{{ n.slug }}">{{ n.note_title }}</a> |
-			<a href="text/{{ n.slug }}">text</a> 
-			<a href="edit/{{ n.key }}" class="delete">edit</a>
-			</li>
-			{% endfor %}
-		</ul>
+		<form method="get">
+			<label for="isbn">ISBN</label>
+			<input type="text" id="isbn" name="isbn">
+			<input type="submit" value="find">
+		</form>
 	</div>
 </div>
 

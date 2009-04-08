@@ -33,23 +33,24 @@ h3.alert {
 	padding:0;
 }
 
-body.l1 #secondary {
-	width: 20em;
+body.l2 #secondary {
 	background:#eeeeee;
 	-moz-border-radius: 5px; 
 	-webkit-border-radius: 5px; 
 	margin-top: 2px; 
 }
+/*
 
-#secondary .content {
-	padding: 1em; 
-}
-
-body.l1 #primary {
+body.l2 #primary {
 	width: 55em;
 	-moz-border-radius: 5px; 
 	-webkit-border-radius: 5px; 
 	margin-top: 2px; 
+}
+	*/
+
+#secondary .content {
+	padding: 1em; 
 }
 
 #primary h1 {
@@ -66,49 +67,12 @@ body.l1 #primary {
 	font-weight: bold;
 }
 
-#primary textarea {
-	color: #003;
-	width: 100%;
-	height: 32em;
-}
-
 #primary input[type="text"] {
-	width: 100%;
 	margin-bottom: 10px;
 }
 
 #footer{
-	background:#bbbbbb;
-	height: 3em;
+	background:#ccc;
+	height: 2em;
 }
 
-ul {
-	padding: 0;
-	margin: 0;
-}
-
-li {
-	padding: 0;
-	margin: 0;
-	list-style: none;
-}
-
-li a {
-	text-decoration: none;
-	font-weight: bold;
-}
-
-li a.delete {
-	color: #c00;
-	font-size: 7px;
-}
-
-li a.p1 {
-	color: #000;
-}
-li a.p2 {
-	color: #444;
-}
-li a.p3 {
-	color: #888;
-}
