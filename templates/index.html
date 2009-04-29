@@ -21,8 +21,8 @@
 {% block content %}
 <div id="primary">
 	<div class="content">
-		{% if isbn %}
-		{{ isbn }}
+		{% if data %}
+		{{ data }}
 		{% endif %}
 	</div>
 </div>
@@ -31,7 +31,7 @@
 	<div class="content">
 		<form method="get">
 			<label for="isbn">ISBN</label>
-			<input type="text" id="isbn" name="isbn">
+			<input type="text" id="isbn" name="isbn" value="{{ isbn }}">
 			<input type="submit" value="find">
 		</form>
 	</div>

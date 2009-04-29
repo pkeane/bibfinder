@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 
+import BeautifulSoup
 import datetime
 import os
 import random
@@ -16,6 +17,11 @@ from google.appengine.ext import db
 from google.appengine.ext import webapp
 from google.appengine.ext.webapp import template
 from google.appengine.ext.webapp.util import login_required
+
+
+# worldcat url
+# http://www.worldcat.org/profiles/pkeane/lists
+
 
 # Set to true if we want to have our webapp print stack traces, etc
 _DEBUG = True
@@ -45,13 +51,21 @@ class HomePage(BaseRequestHandler):
   """Lists the notes """
 
   #@login_required
-  def get(self,id=0):
+  def get(self):
+      data = ''
       isbn = self.request.get('isbn')
-      params = urllib.urlencode({'query':'{"type":"\/type\/edition","isbn_10":"'+isbn+'"}'})
-      f = urllib.urlopen("http://openlibrary.org/api/things?%s" % params)
-      out = f.read()
+      if isbn:
+          params = urllib.urlencode({'query':'{"type":"\/type\/edition","isbn_10":"'+isbn+'"}'})
+          f = urllib.urlopen("http://openlibrary.org/api/things?%s" % params)
+          res = simplejson.loads(f.read())
+          id = res['result'][0]
+          url = "http://openlibrary.org"+id+'.json'
+          g = urllib.urlopen(url)
+          data = g.read()
+
       self.generate('index.html', {
-          'isbn': out 
+          'isbn': isbn,
+          'data': data 
       })
 
   def post(self):
