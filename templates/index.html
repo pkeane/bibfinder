@@ -25,7 +25,7 @@
 			{% for list in lists %}
 			<li>
 			<a href="{{ list.list_url }}">{{ list.list_name }}</a>
-			<a href="get_data?url={{ list.list_url }}">get data</a>
+			(<a href="get_data?url={{ list.list_url }}">get data</a>)
 			</li>
 			{% endfor %}
 		</ul>
