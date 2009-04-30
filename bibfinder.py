@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 
-import BeautifulSoup
 import datetime
 import os
 import random
@@ -11,6 +10,7 @@ import urllib
 import wsgiref.handlers
 
 from django.utils import simplejson
+from BeautifulSoup import BeautifulSoup
 
 from google.appengine.api import users
 from google.appengine.ext import db
@@ -53,18 +53,22 @@ class HomePage(BaseRequestHandler):
   #@login_required
   def get(self):
       data = ''
-      isbn = self.request.get('isbn')
-      if isbn:
-          params = urllib.urlencode({'query':'{"type":"\/type\/edition","isbn_10":"'+isbn+'"}'})
-          f = urllib.urlopen("http://openlibrary.org/api/things?%s" % params)
-          res = simplejson.loads(f.read())
-          id = res['result'][0]
-          url = "http://openlibrary.org"+id+'.json'
-          g = urllib.urlopen(url)
-          data = g.read()
+      wcname = self.request.get('wcname')
+      if wcname:
+          url = "http://www.worldcat.org/profiles/"+wcname+"/lists"
+          #soup = BeautifulSoup(urllib.urlopen(url).read())
+          #data = soup.findAll('td',class="list")[0]
+
+#          params = urllib.urlencode({'query':'{"type":"\/type\/edition","isbn_10":"'+isbn+'"}'})
+#          f = urllib.urlopen("http://openlibrary.org/api/things?%s" % params)
+#          res = simplejson.loads(f.read())
+#          id = res['result'][0]
+#          url = "http://openlibrary.org"+id+'.json'
+#          g = urllib.urlopen(url)
+#          data = g.read()
 
       self.generate('index.html', {
-          'isbn': isbn,
+          'wcname': wcname,
           'data': data 
       })
 
