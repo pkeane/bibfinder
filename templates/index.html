@@ -25,7 +25,7 @@
 			{% for list in lists %}
 			<li>
 			<a href="{{ list.list_url }}">{{ list.list_name }}</a>
-			(<a href="get_data?url={{ list.list_url }}">get data</a>)
+			(<a href="list_titles?url={{ list.list_url|urlencode }}">list titles</a>)
 			</li>
 			{% endfor %}
 		</ul>
@@ -34,6 +34,11 @@
 
 <div id="secondary">
 	<div class="content">
+		<h1>
+			{% for t in titles %}
+			<p>{{ t.guid }} - {{ t.title }}</p>
+			{% endfor %}
+		</h1>
 		<form method="get">
 			<label for="wcname">WorldCat Username</label>
 			<input type="text" id="wcname" name="wcname" value="{{ wcname }}">

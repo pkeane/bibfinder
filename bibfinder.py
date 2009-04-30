@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 
 import datetime
+import feedparser
 import os
 import random
 import re
@@ -47,6 +48,18 @@ class BaseRequestHandler(webapp.RequestHandler):
     path = os.path.join(directory, os.path.join('templates', template_name))
     self.response.out.write(template.render(path, values, debug=_DEBUG))
 
+class TitlesJson(BaseRequestHandler):
+    def get(self):
+      url = self.request.get('url')
+      d = feedparser.parse(url)
+      titles = [] 
+      for entry in d['entries']:
+          titles.append({'guid':entry['guid'].replace('http://www.worldcat.org/oclc/',''),'title':entry['title']});
+
+      self.generate('index.html', {
+          'titles': titles,
+      })
+
 class HomePage(BaseRequestHandler):
   """Lists the notes """
 
@@ -91,6 +104,7 @@ class HomePage(BaseRequestHandler):
 def main():
   application = webapp.WSGIApplication([
     ('/', HomePage),
+    ('/list_titles',TitlesJson ),
   ], debug=_DEBUG)
   wsgiref.handlers.CGIHandler().run(application)
 
