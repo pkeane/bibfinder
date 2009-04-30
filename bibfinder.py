@@ -53,11 +53,17 @@ class HomePage(BaseRequestHandler):
   #@login_required
   def get(self):
       data = ''
+      lists = []
       wcname = self.request.get('wcname')
       if wcname:
           url = "http://www.worldcat.org/profiles/"+wcname+"/lists"
-          #soup = BeautifulSoup(urllib.urlopen(url).read())
-          #data = soup.findAll('td',class="list")[0]
+          soup = BeautifulSoup(urllib.urlopen(url).read())
+          for list in soup('td','list'):
+              list_url = 'http://www.worldcat.org'+list.contents[1]['href']+'/rss'
+              list_name = list.contents[1].contents[0].contents[0]
+              lists.append({'list_url':list_url,'list_name':list_name})
+            
+            
 
 #          params = urllib.urlencode({'query':'{"type":"\/type\/edition","isbn_10":"'+isbn+'"}'})
 #          f = urllib.urlopen("http://openlibrary.org/api/things?%s" % params)
@@ -69,7 +75,7 @@ class HomePage(BaseRequestHandler):
 
       self.generate('index.html', {
           'wcname': wcname,
-          'data': data 
+          'lists': lists 
       })
 
   def post(self):

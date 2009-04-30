@@ -21,9 +21,14 @@
 {% block content %}
 <div id="primary">
 	<div class="content">
-		{% if data %}
-		{{ data }}
-		{% endif %}
+		<ul>
+			{% for list in lists %}
+			<li>
+			<a href="{{ list.list_url }}">{{ list.list_name }}</a>
+			<a href="get_data?url={{ list.list_url }}">get data</a>
+			</li>
+			{% endfor %}
+		</ul>
 	</div>
 </div>
 
