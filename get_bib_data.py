@@ -2,6 +2,7 @@
 
 from xml.dom.minidom import parse, parseString
 from BeautifulSoup import BeautifulSoup
+import codecs
 import datetime
 import feedparser
 import os
@@ -12,6 +13,8 @@ import string
 import sys
 import urllib
 
+#necessary for printing to file
+sys.stdout = codecs.getwriter('utf-8')(sys.stdout)
 
 wcname = 'zdoleshal'
 
@@ -24,6 +27,7 @@ def main():
         d = feedparser.parse(list_url)
         for entry in d['entries']:
           oclcnum = entry['guid'].replace('http://www.worldcat.org/oclc/','')
+          title = entry['title'].encode("utf-8")
 #          params = urllib.urlencode({'method': 'getMetadata', 'format': 'xml', 'fl': 'lccn'})
 #          dom = parseString(urllib.urlopen("http://xisbn.worldcat.org/webservices/xid/oclcnum/"+oclcnum+"?%s" % params).read())
 #          el = dom.getElementsByTagName("oclcnum")
@@ -36,7 +40,11 @@ def main():
 #                  #print urllib.urlopen("http://xisbn.worldcat.org/webservices/xid/oclcnum/"+oclcnum+"?%s" % params).read()
 #          else:
 #              #print "no go"
-          print list_name+' %%% '+entry['title']+' %%% '+oclcnum
+          if title:
+              print list_name+' %%% '+title.decode("utf-8")+' %%% '+oclcnum
+          else:
+              print list_name+' %%% NO TITLE %%% '+oclcnum
+
 
 if __name__=='__main__':
     main()
