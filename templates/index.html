@@ -21,11 +21,12 @@
 {% block content %}
 <div id="primary">
 	<div class="content">
-		<ul>
+		<ul id="user_lists">
 			{% for list in lists %}
 			<li>
 			<a href="{{ list.list_url }}">{{ list.list_name }}</a>
-			(<a href="list_titles?url={{ list.list_url|urlencode }}">list titles</a>)
+			(<a href="http://bibfinder.appspot.com/list_titles?url={{ list.list_url|urlencode }}" class="titles_link">list titles</a>)
+			<ul></ul>
 			</li>
 			{% endfor %}
 		</ul>

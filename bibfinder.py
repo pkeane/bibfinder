@@ -5,7 +5,7 @@ import feedparser
 import os
 import random
 import re
-import simplejson
+import simplejson as json
 import string
 import sys
 import urllib
@@ -19,6 +19,7 @@ from google.appengine.ext import db
 from google.appengine.ext import webapp
 from google.appengine.ext.webapp import template
 from google.appengine.ext.webapp.util import login_required
+from google.appengine.api.urlfetch import DownloadError
 
 
 # worldcat url
@@ -57,9 +58,11 @@ class TitlesJson(BaseRequestHandler):
       for entry in d['entries']:
           titles.append({'guid':entry['guid'].replace('http://www.worldcat.org/oclc/',''),'title':entry['title']});
 
-      self.generate('index.html', {
-          'titles': titles,
-      })
+      jt = json.dumps(titles)
+      self.response.out.write(jt)
+#      self.generate('index.html', {
+#          'titles': jt,
+#      })
 
 class HomePage(BaseRequestHandler):
   """Lists the notes """
@@ -71,6 +74,7 @@ class HomePage(BaseRequestHandler):
       wcname = self.request.get('wcname')
       if wcname:
           url = "http://www.worldcat.org/profiles/"+wcname+"/lists"
+          self.redirect(url)
           soup = BeautifulSoup(urllib.urlopen(url).read())
           for list in soup('td','list'):
               list_url = 'http://www.worldcat.org'+list.contents[1]['href']+'/rss'
