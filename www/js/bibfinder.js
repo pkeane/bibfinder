@@ -1,19 +1,16 @@
-SN = {};
+BF = {};
 
 
 $(document).ready(function() {
-	SN.initDelete();
-	SN.toggleCheatsheet();
+	BF.initDelete();
+	BF.initHello();
 });
 
-SN.toggleCheatsheet = function() {
-	$('#cheatsheetToggle').click(function() {
-		$('#cheatsheet').toggle();
-		return false;
-	});
+BF.initHello = function() {
+	alert('hello');
 };
 
-SN.initDelete = function() {
+BF.initDelete = function() {
 	$('#todos').find("a[class='delete']").click(function() {
 		if (confirm('are you sure?')) {
 			var del_o = {

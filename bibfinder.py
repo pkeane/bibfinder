@@ -5,6 +5,7 @@ import feedparser
 import os
 import random
 import re
+import simplejson
 import string
 import sys
 import urllib
