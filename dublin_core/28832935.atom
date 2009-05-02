@@ -1,0 +1,48 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html xmlns:ex="http://apache.org/cocoon/exception/1.0" xmlns:error="http://apache.org/cocoon/error/2.0">
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Error Page -- Library of Congress LCCN Permalink</title>
+<meta content="Error Page Library of Congress, LCCN, LC Online Catalog, LCCN permalink, persistent identifier " name="keywords">
+<meta content="Error Page LCCN Permalink provides persistent links to metadata records in the LC Online Catalog." name="description">
+<link type="text/css" rel="stylesheet" href="http://lcweb2.loc.gov/natlib/lccn/web/cataloga.css">
+<link media="print" type="text/css" rel="stylesheet" href="http://lcweb2.loc.gov/natlib/lccn/web/catalogp.css">
+</head>
+<body>
+<div id="crumb_nav">
+<a href="http://www.loc.gov/">The Library of Congress</a>&gt;  LCCN Permalink</div>
+<div id="header">
+<table class="banner">
+<tr>
+<td width="57"><a href="http://catalog.loc.gov/"><img border="0" height="55" width="57" alt="Search the LC Online Catalog" src="http://catalog.loc.gov/images/banner-rose-left.gif"></a></td><td class="banner-image" width="50%">&nbsp;</td><td width="488"><a href="http://catalog.loc.gov/"><img border="0" alt="Library of Congress Catalog Record" height="55" width="488" src="http://catalog.loc.gov/images/banner-center-lccn.gif"></a></td><td class="banner-image" width="50%">&nbsp;</td><td width="60"><a href="http://catalog.loc.gov/"><img border="0" height="55" width="60" alt="Search the LC Online Catalog" src="http://catalog.loc.gov/images/banner-rose-right.gif"></a></td>
+</tr>
+</table>
+</div>
+<h3>&nbsp;Error Page: Library of Congress LCCN Permalink</h3>
+<p>Error message: Server Unavailable.</p>
+<p>Error description: </p>
+<table border="1" width="100%"></table>
+<p>&nbsp;For help, click here: <a href="http://lccn.loc.gov/lccn-faq.html">Library of Congress LCCN Permalink</a>
+</p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<div id="footer">
+<div id="footer-left">
+<span class="cip"><em>LCCN Permalink:</em>&nbsp;A Service of the Library of Congress</span>
+<br>
+<br>
+<a href="http://www.loc.gov/about/">About</a>&nbsp;|&nbsp;<a href="http://www.loc.gov/about/sitemap/">Site Map</a>&nbsp;|&nbsp;<a href="http://www.loc.gov/rr/askalib/ask-digital.html">Contact</a>&nbsp;|&nbsp;<a href="http://www.loc.gov/access/">Accessibility</a>&nbsp;|&nbsp;<a href="http://www.loc.gov/homepage/legal.html">Legal</a>&nbsp;|&nbsp;<a href="http://www.usa.gov/">USA.gov</a>
+<br>
+</div>
+<div id="footer-right">More information: <a href="http://lccn.loc.gov/lccn-faq.html">LCCN Permalink FAQ</a>
+</div>
+</div>
+</body>
+</html>
