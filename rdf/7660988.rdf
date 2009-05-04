@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:ol="http://openlibrary.org/type/edition#"
+  xmlns:owl='http://www.w3.org/2002/07/owl#'
+  xmlns:bibo='http://purl.org/ontology/bibo/'
+  xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#'
+  xmlns:dc='http://purl.org/dc/elements/1.1/'
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:dcterms='http://purl.org/dc/terms/'
+
+>
+
+
+    <!-- ol -->
+        <ol:key>/b/OL8324485M</ol:key>
+
+    
+    
+    
+    
+    
+
+    <!-- dc -->
+
+    
+        <dc:subject>Jews</dc:subject>
+    <dc:subject>Miler, Shaul</dc:subject>
+    <dc:subject>Ukraine</dc:subject>
+    <dc:subject>Dobromyl§</dc:subject>
+    <dc:subject>Biography</dc:subject>
+    <dc:subject>Miler, Sha®ul</dc:subject>
+    <dc:subject>Dobromyl§ (Ukraine)</dc:subject>
+
+        <dc:publisher>Loewenthal Press</dc:publisher>
+
+
+    <!-- dcterms -->
+        <dcterms:title>Dobromil</dcterms:title>
+
+        <dcterms:language>/l/eng</dcterms:language>
+
+        <dcterms:modified>2008-04-29 15:03:11.581851</dcterms:modified>
+
+
+    <!-- bibo -->
+
+    <bibo:authorList rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://openlibrary.org/a/OL2930082A"/>
+    </bibo:authorList>
+
+    
+    
+        <bibo:isbn10>0914382012</bibo:isbn10>
+
+        <bibo:isbn13>9780914382010</bibo:isbn13>
+
+    
+
+</rdf:RDF>

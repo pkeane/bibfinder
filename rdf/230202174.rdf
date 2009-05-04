@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:ol="http://openlibrary.org/type/edition#"
+  xmlns:owl='http://www.w3.org/2002/07/owl#'
+  xmlns:bibo='http://purl.org/ontology/bibo/'
+  xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#'
+  xmlns:dc='http://purl.org/dc/elements/1.1/'
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:dcterms='http://purl.org/dc/terms/'
+
+>
+
+
+    <!-- ol -->
+        <ol:key>/b/OL16657259M</ol:key>
+
+        <ol:by_statement>Jennie Lebel ; translated from Serbian by Paul Münch.</ol:by_statement>
+
+        <ol:lc_classifications>DS135.Y82 M235413 2008</ol:lc_classifications>
+
+        <ol:pagination>p. cm.</ol:pagination>
+
+    
+        <ol:publish_country>nju</ol:publish_country>
+
+
+    <!-- dc -->
+
+    
+        <dc:subject>Jews -- Macedonia (Republic) -- History.</dc:subject>
+    <dc:subject>Macedonia (Republic) -- Civilization.</dc:subject>
+
+        <dc:publisher>Avotaynu, Inc.</dc:publisher>
+
+
+    <!-- dcterms -->
+        <dcterms:title>Tide and wreck</dcterms:title>
+
+        <dcterms:language>/l/eng</dcterms:language>
+
+        <dcterms:modified>2008-09-25 12:04:56.994903</dcterms:modified>
+
+
+    <!-- bibo -->
+
+    <bibo:authorList rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://openlibrary.org/a/OL762037A"/>
+    </bibo:authorList>
+
+    
+        <bibo:lccn>2008009306</bibo:lccn>
+
+    
+        <bibo:isbn13>9781886223370</bibo:isbn13>
+
+    
+
+</rdf:RDF>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:ol="http://openlibrary.org/type/edition#"
+  xmlns:owl='http://www.w3.org/2002/07/owl#'
+  xmlns:bibo='http://purl.org/ontology/bibo/'
+  xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#'
+  xmlns:dc='http://purl.org/dc/elements/1.1/'
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:dcterms='http://purl.org/dc/terms/'
+
+>
+
+
+    <!-- ol -->
+        <ol:key>/b/OL8619908M</ol:key>
+
+    
+    
+    
+    
+    
+
+    <!-- dc -->
+
+    
+        <dc:subject>Biography: historical</dc:subject>
+    <dc:subject>Biography: political</dc:subject>
+    <dc:subject>European history: Second World War</dc:subject>
+    <dc:subject>Jewish studies</dc:subject>
+    <dc:subject>The Holocaust</dc:subject>
+    <dc:subject>Second World War, 1939-1945</dc:subject>
+    <dc:subject>Humor</dc:subject>
+    <dc:subject>Jewish Holocaust Personal Narratives</dc:subject>
+    <dc:subject>Rescue</dc:subject>
+    <dc:subject>Literary Criticism</dc:subject>
+    <dc:subject>Biography / Autobiography</dc:subject>
+    <dc:subject>Literature: Folklore/Mythology</dc:subject>
+    <dc:subject>Hungary</dc:subject>
+    <dc:subject>Historical - Holocaust</dc:subject>
+    <dc:subject>History / Holocaust</dc:subject>
+    <dc:subject>Szep, Erno</dc:subject>
+    <dc:subject>Szep, Erno,</dc:subject>
+    <dc:subject>1884-1953</dc:subject>
+    <dc:subject>Personal narratives</dc:subject>
+    <dc:subject>World War, 1939-1945</dc:subject>
+    <dc:subject>Holocaust, Jewish (1939-1945)</dc:subject>
+    <dc:subject>Jews</dc:subject>
+
+        <dc:publisher>A Central European University Press Book</dc:publisher>
+
+
+    <!-- dcterms -->
+        <dcterms:title>The Smell of Humans</dcterms:title>
+
+        <dcterms:language>/l/eng</dcterms:language>
+
+        <dcterms:modified>2008-04-30 08:14:56.482104</dcterms:modified>
+
+
+    <!-- bibo -->
+
+    <bibo:authorList rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://openlibrary.org/a/OL3043402A"/>
+    </bibo:authorList>
+
+    
+    
+        <bibo:isbn10>1858660149</bibo:isbn10>
+
+        <bibo:isbn13>9781858660141</bibo:isbn13>
+
+    
+
+</rdf:RDF>

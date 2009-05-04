@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:ol="http://openlibrary.org/type/edition#"
+  xmlns:owl='http://www.w3.org/2002/07/owl#'
+  xmlns:bibo='http://purl.org/ontology/bibo/'
+  xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#'
+  xmlns:dc='http://purl.org/dc/elements/1.1/'
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:dcterms='http://purl.org/dc/terms/'
+
+>
+
+
+    <!-- ol -->
+        <ol:key>/b/OL17008120M</ol:key>
+
+        <ol:by_statement>Joseph Margoshes ; translated from Yiddish by Rebecca Margolis and Ira Robinson.</ol:by_statement>
+
+        <ol:lc_classifications>DS135.U43 M37713 2008</ol:lc_classifications>
+
+        <ol:pagination>p. cm.</ol:pagination>
+
+        <ol:notes>Includes index.</ol:notes>
+
+        <ol:publish_country>mau</ol:publish_country>
+
+
+    <!-- dc -->
+
+    
+        <dc:subject>Margoshes, Joseph, -- 1866-1955 -- Childhood and youth.</dc:subject>
+    <dc:subject>Jews -- Ukraine -- Lʹviv -- Biography.</dc:subject>
+    <dc:subject>Jews -- Galicia (Poland and Ukraine) -- Social life and customs.</dc:subject>
+    <dc:subject>Orthodox Judaism -- Galicia (Poland and Ukraine) -- History.</dc:subject>
+    <dc:subject>Galicia (Poland and Ukraine) -- Economic conditions -- 19th century.</dc:subject>
+    <dc:subject>Lʹviv (Ukraine) -- Biography.</dc:subject>
+
+        <dc:publisher>Academic Studies Press</dc:publisher>
+
+
+    <!-- dcterms -->
+        <dcterms:title>A  world apart</dcterms:title>
+
+        <dcterms:language>/l/eng</dcterms:language>
+
+        <dcterms:modified>2008-09-27 02:02:39.359774</dcterms:modified>
+
+
+    <!-- bibo -->
+
+    <bibo:authorList rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://openlibrary.org/a/OL5057529A"/>
+    </bibo:authorList>
+
+    
+        <bibo:lccn>2008031165</bibo:lccn>
+
+    
+        <bibo:isbn13>9781934843109</bibo:isbn13>
+
+    
+
+</rdf:RDF>

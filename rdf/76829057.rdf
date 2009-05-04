@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:ol="http://openlibrary.org/type/edition#"
+  xmlns:owl='http://www.w3.org/2002/07/owl#'
+  xmlns:bibo='http://purl.org/ontology/bibo/'
+  xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#'
+  xmlns:dc='http://purl.org/dc/elements/1.1/'
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:dcterms='http://purl.org/dc/terms/'
+
+>
+
+
+    <!-- ol -->
+        <ol:key>/b/OL8536427M</ol:key>
+
+    
+    
+    
+    
+    
+
+    <!-- dc -->
+
+    
+        <dc:subject>Jewish studies</dc:subject>
+    <dc:subject>Social history</dc:subject>
+    <dc:subject>Travel &amp; holiday guides</dc:subject>
+    <dc:subject>Travel Guides</dc:subject>
+    <dc:subject>Travel</dc:subject>
+    <dc:subject>Travel - Foreign</dc:subject>
+    <dc:subject>Eastern Europe</dc:subject>
+    <dc:subject>Europe - Eastern</dc:subject>
+    <dc:subject>Travel / Europe / Eastern</dc:subject>
+    <dc:subject>Europe, Eastern</dc:subject>
+    <dc:subject>Guidebooks</dc:subject>
+    <dc:subject>History</dc:subject>
+    <dc:subject>Holocaust survivors</dc:subject>
+    <dc:subject>Jews</dc:subject>
+
+        <dc:publisher>National Geographic</dc:publisher>
+
+
+    <!-- dcterms -->
+        <dcterms:title>National Geographic Jewish Heritage Travel</dcterms:title>
+
+        <dcterms:language>/l/eng</dcterms:language>
+
+        <dcterms:modified>2008-04-30 06:33:27.187047</dcterms:modified>
+
+
+    <!-- bibo -->
+
+    <bibo:authorList rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://openlibrary.org/a/OL236033A"/>
+    </bibo:authorList>
+
+    
+    
+        <bibo:isbn10>1426200463</bibo:isbn10>
+
+        <bibo:isbn13>9781426200465</bibo:isbn13>
+
+    
+
+</rdf:RDF>

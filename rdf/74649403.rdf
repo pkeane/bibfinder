@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:ol="http://openlibrary.org/type/edition#"
+  xmlns:owl='http://www.w3.org/2002/07/owl#'
+  xmlns:bibo='http://purl.org/ontology/bibo/'
+  xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#'
+  xmlns:dc='http://purl.org/dc/elements/1.1/'
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:dcterms='http://purl.org/dc/terms/'
+
+>
+
+
+    <!-- ol -->
+        <ol:key>/b/OL8824505M</ol:key>
+
+    
+    
+    
+    
+    
+
+    <!-- dc -->
+
+    
+        <dc:subject>History: World</dc:subject>
+    <dc:subject>History</dc:subject>
+    <dc:subject>History - General History</dc:subject>
+    <dc:subject>Eastern Europe - Poland</dc:subject>
+    <dc:subject>Jewish - General</dc:subject>
+    <dc:subject>History / Jewish</dc:subject>
+    <dc:subject>History-Eastern Europe - Poland</dc:subject>
+    <dc:subject>Archival resources</dc:subject>
+    <dc:subject>Directories</dc:subject>
+    <dc:subject>Galicia (Poland and Ukraine)</dc:subject>
+    <dc:subject>Genealogy</dc:subject>
+    <dc:subject>Jews</dc:subject>
+
+        <dc:publisher>Wheatmark</dc:publisher>
+
+
+    <!-- dcterms -->
+        <dcterms:title>The Galitzianers</dcterms:title>
+
+        <dcterms:language>/l/eng</dcterms:language>
+
+        <dcterms:modified>2008-04-30 08:14:56.482104</dcterms:modified>
+
+
+    <!-- bibo -->
+
+    <bibo:authorList rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://openlibrary.org/a/OL3109111A"/>
+    </bibo:authorList>
+
+    
+    
+        <bibo:isbn10>1587366096</bibo:isbn10>
+
+        <bibo:isbn13>9781587366093</bibo:isbn13>
+
+    
+
+</rdf:RDF>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:ol="http://openlibrary.org/type/edition#"
+  xmlns:owl='http://www.w3.org/2002/07/owl#'
+  xmlns:bibo='http://purl.org/ontology/bibo/'
+  xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#'
+  xmlns:dc='http://purl.org/dc/elements/1.1/'
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:dcterms='http://purl.org/dc/terms/'
+
+>
+
+
+    <!-- ol -->
+        <ol:key>/b/OL7759308M</ol:key>
+
+    
+    
+    
+    
+    
+
+    <!-- dc -->
+
+    
+        <dc:subject>European history: c 1750 to c 1900</dc:subject>
+    <dc:subject>History of specific racial &amp; ethnic groups</dc:subject>
+    <dc:subject>Jewish studies</dc:subject>
+    <dc:subject>History</dc:subject>
+    <dc:subject>History - General History</dc:subject>
+    <dc:subject>History: World</dc:subject>
+    <dc:subject>Eastern Europe</dc:subject>
+    <dc:subject>Europe - Former Soviet Republics</dc:subject>
+    <dc:subject>Jewish - General</dc:subject>
+    <dc:subject>European History</dc:subject>
+    <dc:subject>History / Jewish</dc:subject>
+    <dc:subject>Religion</dc:subject>
+    <dc:subject>Europe - General</dc:subject>
+    <dc:subject>Judaism - General</dc:subject>
+    <dc:subject>18th century</dc:subject>
+    <dc:subject>19th century</dc:subject>
+    <dc:subject>Jews</dc:subject>
+    <dc:subject>L§viv</dc:subject>
+    <dc:subject>Reform Judaism</dc:subject>
+    <dc:subject>Ukraine</dc:subject>
+    <dc:subject>Europe - Russia &amp; the Former Soviet Union</dc:subject>
+
+        <dc:publisher>Princeton University Press</dc:publisher>
+
+
+    <!-- dcterms -->
+        <dcterms:title>A Murder in Lemberg</dcterms:title>
+
+        <dcterms:language>/l/eng</dcterms:language>
+
+        <dcterms:modified>2009-04-22 08:08:16.506952</dcterms:modified>
+
+
+    <!-- bibo -->
+
+    <bibo:authorList rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://openlibrary.org/a/OL950842A"/>
+    </bibo:authorList>
+
+    
+    
+        <bibo:isbn10>069112843X</bibo:isbn10>
+
+        <bibo:isbn13>9780691128436</bibo:isbn13>
+
+    
+
+</rdf:RDF>

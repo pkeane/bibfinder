@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:ol="http://openlibrary.org/type/edition#"
+  xmlns:owl='http://www.w3.org/2002/07/owl#'
+  xmlns:bibo='http://purl.org/ontology/bibo/'
+  xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#'
+  xmlns:dc='http://purl.org/dc/elements/1.1/'
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:dcterms='http://purl.org/dc/terms/'
+
+>
+
+
+    <!-- ol -->
+        <ol:key>/b/OL7929458M</ol:key>
+
+    
+    
+    
+    
+    
+
+    <!-- dc -->
+
+    
+        <dc:subject>European history (ie other than Britain &amp; Ireland)</dc:subject>
+    <dc:subject>History of specific racial &amp; ethnic groups</dc:subject>
+    <dc:subject>Jewish studies</dc:subject>
+    <dc:subject>c 1500 to c 1600</dc:subject>
+    <dc:subject>c 1600 to c 1700</dc:subject>
+    <dc:subject>c 1700 to c 1800</dc:subject>
+    <dc:subject>c 1800 to c 1900</dc:subject>
+    <dc:subject>Jewish - General</dc:subject>
+    <dc:subject>History</dc:subject>
+    <dc:subject>History - General History</dc:subject>
+    <dc:subject>History: World</dc:subject>
+    <dc:subject>Belarus (Belorussia)</dc:subject>
+    <dc:subject>General</dc:subject>
+    <dc:subject>Belarus</dc:subject>
+    <dc:subject>Jews</dc:subject>
+    <dc:subject>Lithuania</dc:subject>
+    <dc:subject>Pinsk</dc:subject>
+    <dc:subject>Poland</dc:subject>
+
+        <dc:publisher>Stanford University Press</dc:publisher>
+
+
+    <!-- dcterms -->
+        <dcterms:title>The Jews of Pinsk, 1506 to 1880 (Stanford Studies in Jewish History and Culture)</dcterms:title>
+
+        <dcterms:language>/l/eng</dcterms:language>
+
+        <dcterms:modified>2008-04-29 15:03:11.581851</dcterms:modified>
+
+
+    <!-- bibo -->
+
+    <bibo:authorList rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://openlibrary.org/a/OL2815448A"/>
+    </bibo:authorList>
+
+    
+    
+        <bibo:isbn10>080474159X</bibo:isbn10>
+
+        <bibo:isbn13>9780804741590</bibo:isbn13>
+
+        <bibo:edition>1 edition</bibo:edition>
+
+
+</rdf:RDF>

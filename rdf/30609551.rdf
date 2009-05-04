@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:ol="http://openlibrary.org/type/edition#"
+  xmlns:owl='http://www.w3.org/2002/07/owl#'
+  xmlns:bibo='http://purl.org/ontology/bibo/'
+  xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#'
+  xmlns:dc='http://purl.org/dc/elements/1.1/'
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:dcterms='http://purl.org/dc/terms/'
+
+>
+
+
+    <!-- ol -->
+        <ol:key>/b/OL8702924M</ol:key>
+
+    
+    
+    
+    
+    
+
+    <!-- dc -->
+
+    
+        <dc:subject>History</dc:subject>
+    <dc:subject>Photography</dc:subject>
+    <dc:subject>Holocaust, Jewish (1939-1945), in art</dc:subject>
+    <dc:subject>History: World</dc:subject>
+    <dc:subject>Personal narratives</dc:subject>
+    <dc:subject>Europe</dc:subject>
+    <dc:subject>Hungary</dc:subject>
+    <dc:subject>General</dc:subject>
+    <dc:subject>Exhibitions</dc:subject>
+    <dc:subject>Fisch, Robert O</dc:subject>
+    <dc:subject>Holocaust</dc:subject>
+    <dc:subject>Budapest</dc:subject>
+    <dc:subject>Holocaust, Jewish (1939-1945)</dc:subject>
+    <dc:subject>Jews</dc:subject>
+    <dc:subject>Persecutions</dc:subject>
+
+        <dc:publisher>Frederick R. Weisman Art Museum</dc:publisher>
+
+
+    <!-- dcterms -->
+        <dcterms:title>Light from the Yellow Star</dcterms:title>
+
+        <dcterms:language>/l/eng</dcterms:language>
+
+        <dcterms:modified>2008-04-30 08:14:56.482104</dcterms:modified>
+
+
+    <!-- bibo -->
+
+    <bibo:authorList rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://openlibrary.org/a/OL472933A"/>
+    </bibo:authorList>
+
+    
+    
+        <bibo:isbn10>1885116004</bibo:isbn10>
+
+        <bibo:isbn13>9781885116000</bibo:isbn13>
+
+    
+
+</rdf:RDF>

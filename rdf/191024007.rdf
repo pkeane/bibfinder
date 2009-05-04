@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:ol="http://openlibrary.org/type/edition#"
+  xmlns:owl='http://www.w3.org/2002/07/owl#'
+  xmlns:bibo='http://purl.org/ontology/bibo/'
+  xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#'
+  xmlns:dc='http://purl.org/dc/elements/1.1/'
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:dcterms='http://purl.org/dc/terms/'
+
+>
+
+
+    <!-- ol -->
+        <ol:key>/b/OL16427102M</ol:key>
+
+        <ol:by_statement>David G. Roskies.</ol:by_statement>
+
+        <ol:lc_classifications>F1054.5.M853 R678 2008</ol:lc_classifications>
+
+        <ol:pagination>p. cm.</ol:pagination>
+
+        <ol:notes>The Rebbe Elimeylekh  -- The Dybbuk  -- Cafe Rudnitsky  -- Bread  -- Prayer for the Tsar  -- Scribal errors  -- Malvina&#39;s roses  -- The watercarrier  -- Yeast  -- Beloved fatherland  -- The black canopy  -- May day  -- The wooden box  -- The last Seder night  -- Lisbon  -- Playing solitaire  -- The soirée  -- Cape Cod  -- Double feature  -- Male bonding  -- Etudes  -- Sutzkever&#39;s address  -- Leybl&#39;s ark  -- Between two mountains  -- Kotsk -- The sale of Joseph  -- The two bulvanes  -- Yom Kippur  -- New York Jew  -- Partisans&#39; hymn  -- The menorah  -- Dream house.</ol:notes>
+
+        <ol:publish_country>miu</ol:publish_country>
+
+
+    <!-- dc -->
+
+    
+        <dc:subject>Roskies, David G., -- 1948-</dc:subject>
+    <dc:subject>Roskies, Masha, -- 1906-</dc:subject>
+    <dc:subject>Jews -- Québec -- Montreal -- Biography.</dc:subject>
+    <dc:subject>Yiddishists -- United States -- Biography.</dc:subject>
+    <dc:subject>Jewish scholars -- United States -- Biography.</dc:subject>
+    <dc:subject>Mothers and sons.</dc:subject>
+    <dc:subject>Montréal (Québec) -- Ethnic relations.</dc:subject>
+
+        <dc:publisher>Wayne State University Press</dc:publisher>
+
+
+    <!-- dcterms -->
+        <dcterms:title>Yiddishlands</dcterms:title>
+
+        <dcterms:language>/l/eng</dcterms:language>
+
+        <dcterms:modified>2008-09-23 23:04:22.060825</dcterms:modified>
+
+
+    <!-- bibo -->
+
+    <bibo:authorList rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://openlibrary.org/a/OL239167A"/>
+    </bibo:authorList>
+
+    
+        <bibo:lccn>2008001282</bibo:lccn>
+
+        <bibo:isbn10>0814333974</bibo:isbn10>
+
+        <bibo:isbn13>9780814333976</bibo:isbn13>
+
+    
+
+</rdf:RDF>

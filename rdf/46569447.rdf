@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:ol="http://openlibrary.org/type/edition#"
+  xmlns:owl='http://www.w3.org/2002/07/owl#'
+  xmlns:bibo='http://purl.org/ontology/bibo/'
+  xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#'
+  xmlns:dc='http://purl.org/dc/elements/1.1/'
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:dcterms='http://purl.org/dc/terms/'
+
+>
+
+
+    <!-- ol -->
+        <ol:key>/b/OL11746471M</ol:key>
+
+    
+    
+    
+    
+    
+
+    <!-- dc -->
+
+    
+        <dc:subject>Cooking / Jewish &amp; Kosher</dc:subject>
+    <dc:subject>Cookbook</dc:subject>
+    <dc:subject>Cookery</dc:subject>
+    <dc:subject>Cookery, Jewish</dc:subject>
+    <dc:subject>Cookery, Sephardic</dc:subject>
+    <dc:subject>Cooking</dc:subject>
+    <dc:subject>Jewish &amp; Kosher</dc:subject>
+    <dc:subject>Recipes</dc:subject>
+
+        <dc:publisher>Beyond Borders Publishing</dc:publisher>
+
+
+    <!-- dcterms -->
+        <dcterms:title>Sephardic Cuisine</dcterms:title>
+
+    
+        <dcterms:modified>2008-04-30 20:50:18.033121</dcterms:modified>
+
+
+    <!-- bibo -->
+
+    <bibo:authorList rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://openlibrary.org/a/OL3728465A"/>
+    </bibo:authorList>
+
+    
+    
+        <bibo:isbn10>096714180X</bibo:isbn10>
+
+        <bibo:isbn13>9780967141800</bibo:isbn13>
+
+    
+
+</rdf:RDF>

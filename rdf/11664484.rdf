@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:ol="http://openlibrary.org/type/edition#"
+  xmlns:owl='http://www.w3.org/2002/07/owl#'
+  xmlns:bibo='http://purl.org/ontology/bibo/'
+  xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#'
+  xmlns:dc='http://purl.org/dc/elements/1.1/'
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:dcterms='http://purl.org/dc/terms/'
+
+>
+
+
+    <!-- ol -->
+        <ol:key>/b/OL9813227M</ol:key>
+
+    
+    
+    
+    
+    
+
+    <!-- dc -->
+
+    
+        <dc:subject>Judaism - General</dc:subject>
+    <dc:subject>Judaism</dc:subject>
+
+        <dc:publisher>Artscroll</dc:publisher>
+
+
+    <!-- dcterms -->
+        <dcterms:title>The Unheeded Cry (Artscroll History Series)</dcterms:title>
+
+    
+        <dcterms:modified>2008-04-30 09:38:13.731961</dcterms:modified>
+
+
+    <!-- bibo -->
+
+    <bibo:authorList rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://openlibrary.org/a/OL1377931A"/>
+    </bibo:authorList>
+
+    
+    
+        <bibo:isbn10>089906468X</bibo:isbn10>
+
+        <bibo:isbn13>9780899064680</bibo:isbn13>
+
+    
+
+</rdf:RDF>
+
+        <bibo:isbn13>9780899064697</bibo:isbn13>
+
+    
+
+</rdf:RDF>

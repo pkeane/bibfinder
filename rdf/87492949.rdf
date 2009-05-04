@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:ol="http://openlibrary.org/type/edition#"
+  xmlns:owl='http://www.w3.org/2002/07/owl#'
+  xmlns:bibo='http://purl.org/ontology/bibo/'
+  xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#'
+  xmlns:dc='http://purl.org/dc/elements/1.1/'
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:dcterms='http://purl.org/dc/terms/'
+
+>
+
+
+    <!-- ol -->
+        <ol:key>/b/OL11912319M</ol:key>
+
+    
+    
+    
+    
+    
+
+    <!-- dc -->
+
+    
+        <dc:subject>Genocide</dc:subject>
+    <dc:subject>Jewish studies</dc:subject>
+    <dc:subject>The Holocaust</dc:subject>
+    <dc:subject>Second World War, 1939-1945</dc:subject>
+    <dc:subject>History</dc:subject>
+    <dc:subject>History: World</dc:subject>
+    <dc:subject>Germany</dc:subject>
+    <dc:subject>Holocaust</dc:subject>
+    <dc:subject>Conscript labor</dc:subject>
+    <dc:subject>Holocaust, Jewish (1939-1945)</dc:subject>
+    <dc:subject>Poland</dc:subject>
+    <dc:subject>World War, 1939-1945</dc:subject>
+
+        <dc:publisher>Berghahn Books</dc:publisher>
+
+
+    <!-- dcterms -->
+        <dcterms:title>A Narrow Bridge to Life</dcterms:title>
+
+        <dcterms:language>/l/eng</dcterms:language>
+
+        <dcterms:modified>2008-04-30 20:50:18.033121</dcterms:modified>
+
+
+    <!-- bibo -->
+
+    <bibo:authorList rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://openlibrary.org/a/OL3779497A"/>
+    </bibo:authorList>
+
+    
+    
+        <bibo:isbn10>1845452062</bibo:isbn10>
+
+        <bibo:isbn13>9781845452063</bibo:isbn13>
+
+    
+
+</rdf:RDF>

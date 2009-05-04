@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:ol="http://openlibrary.org/type/edition#"
+  xmlns:owl='http://www.w3.org/2002/07/owl#'
+  xmlns:bibo='http://purl.org/ontology/bibo/'
+  xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#'
+  xmlns:dc='http://purl.org/dc/elements/1.1/'
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:dcterms='http://purl.org/dc/terms/'
+
+>
+
+
+    <!-- ol -->
+        <ol:key>/b/OL7756176M</ol:key>
+
+    
+    
+    
+    
+    
+
+    <!-- dc -->
+
+    
+        <dc:subject>European history: postwar, from c 1945 -</dc:subject>
+    <dc:subject>POLITICS &amp; GOVERNMENT</dc:subject>
+    <dc:subject>Postwar period, 1945 to c 2000</dc:subject>
+    <dc:subject>History &amp; Theory - General</dc:subject>
+    <dc:subject>Post World War II History</dc:subject>
+    <dc:subject>Reparations</dc:subject>
+    <dc:subject>History</dc:subject>
+    <dc:subject>History - General History</dc:subject>
+    <dc:subject>Modern - 20th Century</dc:subject>
+    <dc:subject>History: World</dc:subject>
+    <dc:subject>Europe</dc:subject>
+    <dc:subject>Europe - General</dc:subject>
+    <dc:subject>Military - World War II</dc:subject>
+    <dc:subject>Collaborationists</dc:subject>
+    <dc:subject>Reconstruction (1939-1951)</dc:subject>
+    <dc:subject>World War, 1939-1945</dc:subject>
+
+        <dc:publisher>Princeton University Press</dc:publisher>
+
+
+    <!-- dcterms -->
+        <dcterms:title>The Politics of Retribution in Europe</dcterms:title>
+
+        <dcterms:language>/l/eng</dcterms:language>
+
+        <dcterms:modified>2008-04-29 15:03:11.581851</dcterms:modified>
+
+
+    <!-- bibo -->
+
+    <bibo:authorList rdf:parseType="Collection">
+    </bibo:authorList>
+
+    
+    
+        <bibo:isbn10>0691009538</bibo:isbn10>
+
+        <bibo:isbn13>9780691009537</bibo:isbn13>
+
+    
+
+</rdf:RDF>
+rList>
+
+    
+    
+        <bibo:isbn10>0691009546</bibo:isbn10>
+
+        <bibo:isbn13>9780691009544</bibo:isbn13>
+
+    
+
+</rdf:RDF>

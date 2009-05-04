@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:ol="http://openlibrary.org/type/edition#"
+  xmlns:owl='http://www.w3.org/2002/07/owl#'
+  xmlns:bibo='http://purl.org/ontology/bibo/'
+  xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#'
+  xmlns:dc='http://purl.org/dc/elements/1.1/'
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:dcterms='http://purl.org/dc/terms/'
+
+>
+
+
+    <!-- ol -->
+        <ol:key>/b/OL8296572M</ol:key>
+
+    
+    
+    
+    
+    
+
+    <!-- dc -->
+
+    
+        <dc:subject>Soviet Union</dc:subject>
+    <dc:subject>Religion</dc:subject>
+    <dc:subject>Laor, David</dc:subject>
+    <dc:subject>World War, 1939-1945</dc:subject>
+    <dc:subject>Tehran</dc:subject>
+    <dc:subject>Rescue</dc:subject>
+    <dc:subject>Iran</dc:subject>
+    <dc:subject>Jews</dc:subject>
+    <dc:subject>Biography</dc:subject>
+    <dc:subject>Persecutions</dc:subject>
+    <dc:subject>Refugees, Jewish</dc:subject>
+
+        <dc:publisher>Bnai Brith Intl Continuing</dc:publisher>
+
+
+    <!-- dcterms -->
+        <dcterms:title>Teheran Operation</dcterms:title>
+
+        <dcterms:language>/l/eng</dcterms:language>
+
+        <dcterms:modified>2008-04-29 15:03:11.581851</dcterms:modified>
+
+
+    <!-- bibo -->
+
+    <bibo:authorList rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://openlibrary.org/a/OL2921049A"/>
+    </bibo:authorList>
+
+    
+    
+        <bibo:isbn10>0910250197</bibo:isbn10>
+
+        <bibo:isbn13>9780910250191</bibo:isbn13>
+
+    
+
+</rdf:RDF>

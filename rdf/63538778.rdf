@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:ol="http://openlibrary.org/type/edition#"
+  xmlns:owl='http://www.w3.org/2002/07/owl#'
+  xmlns:bibo='http://purl.org/ontology/bibo/'
+  xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#'
+  xmlns:dc='http://purl.org/dc/elements/1.1/'
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:dcterms='http://purl.org/dc/terms/'
+
+>
+
+
+    <!-- ol -->
+        <ol:key>/b/OL11796046M</ol:key>
+
+    
+    
+    
+    
+    
+
+    <!-- dc -->
+
+    
+        <dc:subject>Pearl Fichman</dc:subject>
+    <dc:subject>Biography &amp; Autobiography / General</dc:subject>
+    <dc:subject>General</dc:subject>
+    <dc:subject>Biography &amp; Autobiography</dc:subject>
+    <dc:subject>Biography/Autobiography</dc:subject>
+
+        <dc:publisher>BookSurge Publishing</dc:publisher>
+
+
+    <!-- dcterms -->
+        <dcterms:title>Before Memories Fade</dcterms:title>
+
+        <dcterms:language>/l/eng</dcterms:language>
+
+        <dcterms:modified>2008-04-30 20:50:18.033121</dcterms:modified>
+
+
+    <!-- bibo -->
+
+    <bibo:authorList rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://openlibrary.org/a/OL3746049A"/>
+    </bibo:authorList>
+
+    
+    
+        <bibo:isbn10>1419615017</bibo:isbn10>
+
+        <bibo:isbn13>9781419615016</bibo:isbn13>
+
+    
+
+</rdf:RDF>

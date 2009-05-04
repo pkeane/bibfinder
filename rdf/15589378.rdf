@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:ol="http://openlibrary.org/type/edition#"
+  xmlns:owl='http://www.w3.org/2002/07/owl#'
+  xmlns:bibo='http://purl.org/ontology/bibo/'
+  xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#'
+  xmlns:dc='http://purl.org/dc/elements/1.1/'
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:dcterms='http://purl.org/dc/terms/'
+
+>
+
+
+    <!-- ol -->
+        <ol:key>/b/OL8245753M</ol:key>
+
+    
+    
+    
+    
+    
+
+    <!-- dc -->
+
+    
+        <dc:subject>Political oppression &amp; persecution</dc:subject>
+    <dc:subject>Trials (Treason)</dc:subject>
+    <dc:subject>Legal Reference / Law Profession</dc:subject>
+    <dc:subject>Political Repression</dc:subject>
+    <dc:subject>Slansky, Rudolf</dc:subject>
+    <dc:subject>History: American</dc:subject>
+    <dc:subject>Prague</dc:subject>
+    <dc:subject>Persecutions</dc:subject>
+    <dc:subject>Criminal Law - General</dc:subject>
+    <dc:subject>Czech Republic</dc:subject>
+    <dc:subject>Trials, litigation, etc</dc:subject>
+    <dc:subject>Antisemitism</dc:subject>
+    <dc:subject>Czechoslovakia</dc:subject>
+    <dc:subject>Jews</dc:subject>
+
+        <dc:publisher>Herzl Press</dc:publisher>
+
+
+    <!-- dcterms -->
+        <dcterms:title>The Prague Trial</dcterms:title>
+
+        <dcterms:language>/l/eng</dcterms:language>
+
+        <dcterms:modified>2008-04-29 15:03:11.581851</dcterms:modified>
+
+
+    <!-- bibo -->
+
+    <bibo:authorList rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://openlibrary.org/a/OL2904170A"/>
+    </bibo:authorList>
+
+    
+    
+        <bibo:isbn10>0845348140</bibo:isbn10>
+
+        <bibo:isbn13>9780845348147</bibo:isbn13>
+
+    
+
+</rdf:RDF>

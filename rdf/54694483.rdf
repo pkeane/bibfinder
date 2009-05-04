@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:ol="http://openlibrary.org/type/edition#"
+  xmlns:owl='http://www.w3.org/2002/07/owl#'
+  xmlns:bibo='http://purl.org/ontology/bibo/'
+  xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#'
+  xmlns:dc='http://purl.org/dc/elements/1.1/'
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:dcterms='http://purl.org/dc/terms/'
+
+>
+
+
+    <!-- ol -->
+        <ol:key>/b/OL11221659M</ol:key>
+
+    
+    
+    
+    
+    
+
+    <!-- dc -->
+
+    
+        <dc:subject>General</dc:subject>
+    <dc:subject>Discrimination &amp; Racism</dc:subject>
+    <dc:subject>Social Science</dc:subject>
+    <dc:subject>Biography / Autobiography</dc:subject>
+    <dc:subject>20th century</dc:subject>
+    <dc:subject>Biography</dc:subject>
+    <dc:subject>History</dc:subject>
+    <dc:subject>Holocaust, Jewish (1939-1945)</dc:subject>
+    <dc:subject>Jews</dc:subject>
+    <dc:subject>Labson, Gabriella Auspitz</dc:subject>
+    <dc:subject>Mukacheve</dc:subject>
+    <dc:subject>Ukraine</dc:subject>
+    <dc:subject>Sociology</dc:subject>
+
+        <dc:publisher>Ktav Publishing House</dc:publisher>
+
+
+    <!-- dcterms -->
+        <dcterms:title>My Righteous Gentile</dcterms:title>
+
+        <dcterms:language>/l/eng</dcterms:language>
+
+        <dcterms:modified>2008-04-30 09:38:13.731961</dcterms:modified>
+
+
+    <!-- bibo -->
+
+    <bibo:authorList rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://openlibrary.org/a/OL3572676A"/>
+    </bibo:authorList>
+
+    
+    
+        <bibo:isbn10>0881258318</bibo:isbn10>
+
+        <bibo:isbn13>9780881258318</bibo:isbn13>
+
+    
+
+</rdf:RDF>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:ol="http://openlibrary.org/type/edition#"
+  xmlns:owl='http://www.w3.org/2002/07/owl#'
+  xmlns:bibo='http://purl.org/ontology/bibo/'
+  xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#'
+  xmlns:dc='http://purl.org/dc/elements/1.1/'
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:dcterms='http://purl.org/dc/terms/'
+
+>
+
+
+    <!-- ol -->
+        <ol:key>/b/OL20962069M</ol:key>
+
+        <ol:by_statement>Giles Milton.</ol:by_statement>
+
+    
+        <ol:pagination>426 p.:\bill. cm.</ol:pagination>
+
+    
+        <ol:publish_country>nyu</ol:publish_country>
+
+
+    <!-- dc -->
+
+    
+        <dc:subject>Minorities -- Turkey -- Izmir.</dc:subject>
+    <dc:subject>Fires -- Turkey -- Izmir.</dc:subject>
+    <dc:subject>Izmir (Turkey) -- History. </dc:subject>
+
+        <dc:publisher>Basic Books</dc:publisher>
+
+
+    <!-- dcterms -->
+        <dcterms:title>Paradise lost</dcterms:title>
+
+        <dcterms:language>/l/eng</dcterms:language>
+
+        <dcterms:modified>2008-10-31 07:39:55.088846</dcterms:modified>
+
+
+    <!-- bibo -->
+
+    <bibo:authorList rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://openlibrary.org/a/OL236701A"/>
+    </bibo:authorList>
+
+    
+        <bibo:lccn>2008921306</bibo:lccn>
+
+        <bibo:isbn10>0465011195</bibo:isbn10>
+
+        <bibo:isbn13>9780465011193</bibo:isbn13>
+
+    
+
+</rdf:RDF>

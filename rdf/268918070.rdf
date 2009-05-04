@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:ol="http://openlibrary.org/type/edition#"
+  xmlns:owl='http://www.w3.org/2002/07/owl#'
+  xmlns:bibo='http://purl.org/ontology/bibo/'
+  xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#'
+  xmlns:dc='http://purl.org/dc/elements/1.1/'
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:dcterms='http://purl.org/dc/terms/'
+
+>
+
+
+    <!-- ol -->
+        <ol:key>/b/OL20894791M</ol:key>
+
+        <ol:by_statement>Ladislau Gyémánt ; [traducerea în limba engleză: Simona Fărcășan ; revizuirea traducerii: Moshe Carmilly, Mihaela Mudure].</ol:by_statement>
+
+        <ol:lc_classifications>DS135.R72 T743 2000</ol:lc_classifications>
+
+        <ol:pagination>495 p. ;</ol:pagination>
+
+        <ol:notes>Includes bibliographical references (p. [486]-493).
+
+Romanian and English.</ol:notes>
+
+        <ol:publish_country>rm </ol:publish_country>
+
+
+    <!-- dc -->
+
+    
+        <dc:subject>Jews -- Romania -- Transylvania -- History -- 18th century.</dc:subject>
+    <dc:subject>Jews -- Romania -- Transylvania -- History -- 19th century.</dc:subject>
+    <dc:subject>Jews -- Legal status, laws, etc. -- Romania -- Transylvania -- History -- 18th century.</dc:subject>
+    <dc:subject>Jews -- Legal status, laws, etc. -- Romania -- Transylvania -- History -- 19th century.</dc:subject>
+    <dc:subject>Transylvania (Romania) -- Ethnic relations.</dc:subject>
+
+        <dc:publisher>Editura Enciclopedicǎ</dc:publisher>
+
+
+    <!-- dcterms -->
+        <dcterms:title>Evreii din Transilvania în epoca emancipării (1790-1867) =</dcterms:title>
+
+        <dcterms:language>/l/eng</dcterms:language>
+
+        <dcterms:modified>2008-10-30 11:27:47.262519</dcterms:modified>
+
+
+    <!-- bibo -->
+
+    <bibo:authorList rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://openlibrary.org/a/OL6156447A"/>
+    </bibo:authorList>
+
+    
+    
+        <bibo:isbn10>9734503065</bibo:isbn10>
+
+        <bibo:isbn13>9789734503063</bibo:isbn13>
+
+    
+
+</rdf:RDF>

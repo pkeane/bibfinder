@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:ol="http://openlibrary.org/type/edition#"
+  xmlns:owl='http://www.w3.org/2002/07/owl#'
+  xmlns:bibo='http://purl.org/ontology/bibo/'
+  xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#'
+  xmlns:dc='http://purl.org/dc/elements/1.1/'
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:dcterms='http://purl.org/dc/terms/'
+
+>
+
+
+    <!-- ol -->
+        <ol:key>/b/OL19227000M</ol:key>
+
+        <ol:by_statement>Rena Molho.</ol:by_statement>
+
+    
+        <ol:pagination>298 p. :</ol:pagination>
+
+        <ol:notes>Includes bibliographical references (p. 289-298).
+
+Text is in English and French.</ol:notes>
+
+        <ol:publish_country>tu </ol:publish_country>
+
+
+    <!-- dc -->
+
+    
+        <dc:subject>Jews -- Thessalonikē (Greece) -- History.</dc:subject>
+    <dc:subject>Jews -- Greece -- Social life and customs.</dc:subject>
+    <dc:subject>Jews -- Turkey -- Istanbul -- History.</dc:subject>
+    <dc:subject>Jews -- Turkey -- Social life and customs.</dc:subject>
+
+        <dc:publisher>Isis press</dc:publisher>
+
+
+    <!-- dcterms -->
+        <dcterms:title>Salonica and Istanbul</dcterms:title>
+
+        <dcterms:language>/l/eng</dcterms:language>
+
+        <dcterms:modified>2008-10-21 09:40:29.969898</dcterms:modified>
+
+
+    <!-- bibo -->
+
+    <bibo:authorList rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://openlibrary.org/a/OL5671934A"/>
+    </bibo:authorList>
+
+    
+    
+        <bibo:isbn10>9754282781</bibo:isbn10>
+
+        <bibo:isbn13>9789754282788</bibo:isbn13>
+
+        <bibo:edition>1st ed.</bibo:edition>
+
+
+</rdf:RDF>

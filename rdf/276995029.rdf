@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:ol="http://openlibrary.org/type/edition#"
+  xmlns:owl='http://www.w3.org/2002/07/owl#'
+  xmlns:bibo='http://purl.org/ontology/bibo/'
+  xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#'
+  xmlns:dc='http://purl.org/dc/elements/1.1/'
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:dcterms='http://purl.org/dc/terms/'
+
+>
+
+
+    <!-- ol -->
+        <ol:key>/b/OL22696065M</ol:key>
+
+        <ol:by_statement>ed. Louise O. Vasvari and Steven Tötösy de Zepetnek.</ol:by_statement>
+
+        <ol:lc_classifications>DS135.E83 C65 2008</ol:lc_classifications>
+
+        <ol:pagination>p. cm.</ol:pagination>
+
+        <ol:notes>Includes bibliographical references and index.</ol:notes>
+
+        <ol:publish_country>inu</ol:publish_country>
+
+
+    <!-- dc -->
+
+    
+        <dc:subject>Kertész, Imre, -- 1929- -- Criticism and interpretation.</dc:subject>
+    <dc:subject>Jews -- Persecutions -- Europe, Central -- History.</dc:subject>
+    <dc:subject>Jews -- Persecutions -- Hungary -- History.</dc:subject>
+    <dc:subject>Holocaust, Jewish (1939-1945) -- Europe, Central -- History.</dc:subject>
+    <dc:subject>Holocaust, Jewish (1939-1945) -- Hungary -- History.</dc:subject>
+    <dc:subject>Europe, Central -- Ethnic relations.</dc:subject>
+    <dc:subject>Hungary -- Ethnic relations.</dc:subject>
+
+        <dc:publisher>Purdue University Press</dc:publisher>
+
+
+    <!-- dcterms -->
+        <dcterms:title>Comparative Central European Holocaust studies</dcterms:title>
+
+        <dcterms:language>/l/eng</dcterms:language>
+
+        <dcterms:modified>2008-12-12 14:16:38.069150</dcterms:modified>
+
+
+    <!-- bibo -->
+
+    <bibo:authorList rdf:parseType="Collection">
+    </bibo:authorList>
+
+    
+        <bibo:lccn>2008050662</bibo:lccn>
+
+    
+        <bibo:isbn13>9781557535269</bibo:isbn13>
+
+    
+
+</rdf:RDF>

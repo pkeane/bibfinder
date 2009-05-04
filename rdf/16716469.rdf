@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:ol="http://openlibrary.org/type/edition#"
+  xmlns:owl='http://www.w3.org/2002/07/owl#'
+  xmlns:bibo='http://purl.org/ontology/bibo/'
+  xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#'
+  xmlns:dc='http://purl.org/dc/elements/1.1/'
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:dcterms='http://purl.org/dc/terms/'
+
+>
+
+
+    <!-- ol -->
+        <ol:key>/b/OL7642759M</ol:key>
+
+    
+    
+    
+    
+    
+
+    <!-- dc -->
+
+    
+        <dc:subject>Politics and government</dc:subject>
+    <dc:subject>Ukrainians</dc:subject>
+    <dc:subject>War criminals</dc:subject>
+    <dc:subject>Canada</dc:subject>
+    <dc:subject>Jews</dc:subject>
+
+        <dc:publisher>Univ of North Carolina Pr</dc:publisher>
+
+
+    <!-- dcterms -->
+        <dcterms:title>Old Wounds</dcterms:title>
+
+    
+        <dcterms:modified>2008-04-29 15:03:11.581851</dcterms:modified>
+
+
+    <!-- bibo -->
+
+    <bibo:authorList rdf:parseType="Collection">
+    </bibo:authorList>
+
+    
+    
+        <bibo:isbn10>0670821683</bibo:isbn10>
+
+        <bibo:isbn13>9780670821686</bibo:isbn13>
+
+    
+
+</rdf:RDF>

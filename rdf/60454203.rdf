@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:ol="http://openlibrary.org/type/edition#"
+  xmlns:owl='http://www.w3.org/2002/07/owl#'
+  xmlns:bibo='http://purl.org/ontology/bibo/'
+  xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#'
+  xmlns:dc='http://purl.org/dc/elements/1.1/'
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:dcterms='http://purl.org/dc/terms/'
+
+>
+
+
+    <!-- ol -->
+        <ol:key>/b/OL9799591M</ol:key>
+
+    
+    
+    
+    
+    
+
+    <!-- dc -->
+
+    
+        <dc:subject>Demonstrations &amp; protest movements</dc:subject>
+    <dc:subject>European history: Second World War</dc:subject>
+    <dc:subject>Second World War, 1939-1945</dc:subject>
+    <dc:subject>History: World</dc:subject>
+    <dc:subject>Europe - Austria &amp; Hungary</dc:subject>
+    <dc:subject>World War, 1939-1945</dc:subject>
+    <dc:subject>History</dc:subject>
+    <dc:subject>History - General History</dc:subject>
+    <dc:subject>Jews</dc:subject>
+    <dc:subject>Hungary</dc:subject>
+    <dc:subject>Holocaust</dc:subject>
+    <dc:subject>Eastern Europe - General</dc:subject>
+    <dc:subject>Rescue</dc:subject>
+    <dc:subject>Budapest</dc:subject>
+    <dc:subject>Holocaust, Jewish (1939-1945)</dc:subject>
+    <dc:subject>Persecutions</dc:subject>
+
+        <dc:publisher>Central European University Press</dc:publisher>
+
+
+    <!-- dcterms -->
+        <dcterms:title>Trading in Lives? Operations of the Jewish Relief and Rescue Committee in Budapest, 1944-1945</dcterms:title>
+
+        <dcterms:language>/l/eng</dcterms:language>
+
+        <dcterms:modified>2008-04-30 09:38:13.731961</dcterms:modified>
+
+
+    <!-- bibo -->
+
+    <bibo:authorList rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://openlibrary.org/a/OL680649A"/>
+      <rdf:Description rdf:about="http://openlibrary.org/a/OL3328305A"/>
+    </bibo:authorList>
+
+    
+    
+        <bibo:isbn10>9637326308</bibo:isbn10>
+
+        <bibo:isbn13>9789637326301</bibo:isbn13>
+
+    
+
+</rdf:RDF>

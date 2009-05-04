@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:ol="http://openlibrary.org/type/edition#"
+  xmlns:owl='http://www.w3.org/2002/07/owl#'
+  xmlns:bibo='http://purl.org/ontology/bibo/'
+  xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#'
+  xmlns:dc='http://purl.org/dc/elements/1.1/'
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:dcterms='http://purl.org/dc/terms/'
+
+>
+
+
+    <!-- ol -->
+        <ol:key>/b/OL7931594M</ol:key>
+
+    
+    
+    
+    
+    
+
+    <!-- dc -->
+
+    
+        <dc:subject>Travel</dc:subject>
+    <dc:subject>Journeys</dc:subject>
+    <dc:subject>20th Century Description And Travel</dc:subject>
+    <dc:subject>Biography/Autobiography</dc:subject>
+    <dc:subject>Tanner, Marcus</dc:subject>
+    <dc:subject>Description and travel</dc:subject>
+    <dc:subject>Essays &amp; Travelogues</dc:subject>
+    <dc:subject>Eastern Europe</dc:subject>
+    <dc:subject>Europe, Eastern</dc:subject>
+
+        <dc:publisher>Henry Holt &amp; Co</dc:publisher>
+
+
+    <!-- dcterms -->
+        <dcterms:title>Ticket to Latvia</dcterms:title>
+
+        <dcterms:language>/l/eng</dcterms:language>
+
+        <dcterms:modified>2008-04-29 15:03:11.581851</dcterms:modified>
+
+
+    <!-- bibo -->
+
+    <bibo:authorList rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://openlibrary.org/a/OL542603A"/>
+    </bibo:authorList>
+
+    
+    
+        <bibo:isbn10>0805013466</bibo:isbn10>
+
+        <bibo:isbn13>9780805013467</bibo:isbn13>
+
+        <bibo:edition>1st Owl Book ed edition</bibo:edition>
+
+
+</rdf:RDF>

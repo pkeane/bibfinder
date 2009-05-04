@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:ol="http://openlibrary.org/type/edition#"
+  xmlns:owl='http://www.w3.org/2002/07/owl#'
+  xmlns:bibo='http://purl.org/ontology/bibo/'
+  xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#'
+  xmlns:dc='http://purl.org/dc/elements/1.1/'
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:dcterms='http://purl.org/dc/terms/'
+
+>
+
+
+    <!-- ol -->
+        <ol:key>/b/OL8601678M</ol:key>
+
+    
+    
+    
+    
+    
+
+    <!-- dc -->
+
+    
+        <dc:subject>Refuseniks</dc:subject>
+    <dc:subject>Emigration And Immigration</dc:subject>
+    <dc:subject>History Of Jews</dc:subject>
+    <dc:subject>History: World</dc:subject>
+    <dc:subject>Soviet Union</dc:subject>
+    <dc:subject>History</dc:subject>
+    <dc:subject>POLITICS &amp; GOVERNMENT</dc:subject>
+    <dc:subject>Russia</dc:subject>
+    <dc:subject>Jews</dc:subject>
+    <dc:subject>Persecutions</dc:subject>
+
+        <dc:publisher>Universal Sales &amp; Marketing</dc:publisher>
+
+
+    <!-- dcterms -->
+        <dcterms:title>Challenging the Kremlin</dcterms:title>
+
+        <dcterms:language>/l/eng</dcterms:language>
+
+        <dcterms:modified>2008-04-30 08:14:56.482104</dcterms:modified>
+
+
+    <!-- bibo -->
+
+    <bibo:authorList rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://openlibrary.org/a/OL543752A"/>
+    </bibo:authorList>
+
+    
+    
+        <bibo:isbn10>1557780536</bibo:isbn10>
+
+        <bibo:isbn13>9781557780539</bibo:isbn13>
+
+        <bibo:edition>1st ed. edition</bibo:edition>
+
+
+</rdf:RDF>

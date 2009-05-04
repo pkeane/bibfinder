@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:ol="http://openlibrary.org/type/edition#"
+  xmlns:owl='http://www.w3.org/2002/07/owl#'
+  xmlns:bibo='http://purl.org/ontology/bibo/'
+  xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#'
+  xmlns:dc='http://purl.org/dc/elements/1.1/'
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:dcterms='http://purl.org/dc/terms/'
+
+>
+
+
+    <!-- ol -->
+        <ol:key>/b/OL7359189M</ol:key>
+
+    
+    
+    
+    
+    
+
+    <!-- dc -->
+
+    
+    
+        <dc:publisher>Penguin Books Ltd</dc:publisher>
+
+
+    <!-- dcterms -->
+        <dcterms:title>Life with a Star (Penguin Modern Classics)</dcterms:title>
+
+    
+        <dcterms:modified>2008-04-29 13:35:46.087638</dcterms:modified>
+
+
+    <!-- bibo -->
+
+    <bibo:authorList rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://openlibrary.org/a/OL2657591A"/>
+    </bibo:authorList>
+
+    
+    
+        <bibo:isbn10>014118695X</bibo:isbn10>
+
+        <bibo:isbn13>9780141186955</bibo:isbn13>
+
+    
+
+</rdf:RDF>
