@@ -1,0 +1,15 @@
+<entry xmlns="http://www.w3.org/2005/Atom">
+  <updated>2009-05-04T16:56:01-0500</updated>
+  <title>21036835</title>
+  <category scheme="http://daseproject.org/category/metadata" term="oclc_num">21036835</category>
+  <category scheme="http://daseproject.org/category/metadata" term="topic">Jews of the Soviet Union</category>
+  <link href="http://coverart.oclc.org/ImageWebSvc/oclc/21036835_140.jpg?SearchOrder=BT,AM,IN" rel="enclosure" />
+  <category scheme="http://daseproject.org/category/metadata" term="title">Jewish culture and identity in the Soviet Union</category>
+  <category scheme="http://daseproject.org/category/metadata" term="author">Yaacov Ro'i</category>
+  <category scheme="http://daseproject.org/category/metadata" term="author">Avi Beker</category>
+  <category scheme="http://daseproject.org/category/metadata" term="format">Book : English :</category>
+  <category scheme="http://daseproject.org/category/metadata" term="publisher">New York : New York University Press, &amp;copy;1991.</category>
+  <category scheme="http://daseproject.org/category/metadata" term="subject">Jews -- Soviet Union -- History.</category>
+  <category scheme="http://daseproject.org/category/metadata" term="subject">Jews -- Soviet Union -- Intellectual life.</category>
+  <category scheme="http://daseproject.org/category/metadata" term="subject">Jews -- Soviet Union -- Identity.</category>
+</entry>

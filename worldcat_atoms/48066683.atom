@@ -1,0 +1,13 @@
+<entry xmlns="http://www.w3.org/2005/Atom">
+  <updated>2009-05-04T16:56:10-0500</updated>
+  <title>48066683</title>
+  <category scheme="http://daseproject.org/category/metadata" term="oclc_num">48066683</category>
+  <category scheme="http://daseproject.org/category/metadata" term="topic">Czech Republic</category>
+  <link href="http://coverart.oclc.org/ImageWebSvc/oclc/48066683_140.jpg?SearchOrder=BT,AM,IN" rel="enclosure" />
+  <category scheme="http://daseproject.org/category/metadata" term="title">Life with a star</category>
+  <category scheme="http://daseproject.org/category/metadata" term="author">Jir&#780;&#305;&#769; Weil</category>
+  <category scheme="http://daseproject.org/category/metadata" term="format">Book : Fiction : English :</category>
+  <category scheme="http://daseproject.org/category/metadata" term="publisher">London : Penguin, 2002.</category>
+  <category scheme="http://daseproject.org/category/metadata" term="subject">Holocaust, Jewish (1939-1945) -- Czech Republic -- Prague -- Fiction.</category>
+  <category scheme="http://daseproject.org/category/metadata" term="subject">Jews, Czech -- Fiction.</category>
+</entry>

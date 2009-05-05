@@ -1,0 +1,16 @@
+<entry xmlns="http://www.w3.org/2005/Atom">
+  <updated>2009-05-04T16:56:08-0500</updated>
+  <title>30029680</title>
+  <category scheme="http://daseproject.org/category/metadata" term="oclc_num">30029680</category>
+  <category scheme="http://daseproject.org/category/metadata" term="topic">Jews of the Russian Empire</category>
+  <link href="http://coverart.oclc.org/ImageWebSvc/oclc/30029680_140.jpg?SearchOrder=BT,AM,IN" rel="enclosure" />
+  <category scheme="http://daseproject.org/category/metadata" term="title">The Jews of Moscow, Kiev, and Minsk </category>
+  <category scheme="http://daseproject.org/category/metadata" term="subtitle"> identity, antisemitism, emigration</category>
+  <category scheme="http://daseproject.org/category/metadata" term="author">Robert J Brym</category>
+  <category scheme="http://daseproject.org/category/metadata" term="author">Rozalina Vladimirovna Ryvkina</category>
+  <category scheme="http://daseproject.org/category/metadata" term="format">Book : English :</category>
+  <category scheme="http://daseproject.org/category/metadata" term="publisher">New York : New York University Press ; London : Institute of Jewish Affairs, 1994.</category>
+  <category scheme="http://daseproject.org/category/metadata" term="subject">Jews -- Russia (Federation) -- Politics and government.</category>
+  <category scheme="http://daseproject.org/category/metadata" term="subject">Jews -- Ukraine -- Politics and government.</category>
+  <category scheme="http://daseproject.org/category/metadata" term="subject">Jews -- Belarus -- Politics and government.</category>
+</entry>

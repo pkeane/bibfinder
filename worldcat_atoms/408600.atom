@@ -1,0 +1,12 @@
+<entry xmlns="http://www.w3.org/2005/Atom">
+  <updated>2009-05-04T16:56:01-0500</updated>
+  <title>408600</title>
+  <category scheme="http://daseproject.org/category/metadata" term="oclc_num">408600</category>
+  <category scheme="http://daseproject.org/category/metadata" term="topic">Jews of the Soviet Union</category>
+  <link href="http://coverart.oclc.org/ImageWebSvc/oclc/408600_140.jpg?SearchOrder=BT,AM,IN" rel="enclosure" />
+  <category scheme="http://daseproject.org/category/metadata" term="title">The Jews in the Soviet satellites.</category>
+  <category scheme="http://daseproject.org/category/metadata" term="author">Peter Meyer</category>
+  <category scheme="http://daseproject.org/category/metadata" term="format">Book : English :</category>
+  <category scheme="http://daseproject.org/category/metadata" term="publisher">[Syracuse, N.Y.] Syracuse University Press [1953]</category>
+  <category scheme="http://daseproject.org/category/metadata" term="subject">Jews -- Europe, Eastern.</category>
+</entry>

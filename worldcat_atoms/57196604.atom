@@ -1,0 +1,14 @@
+<entry xmlns="http://www.w3.org/2005/Atom">
+  <updated>2009-05-04T16:56:17-0500</updated>
+  <title>57196604</title>
+  <category scheme="http://daseproject.org/category/metadata" term="oclc_num">57196604</category>
+  <category scheme="http://daseproject.org/category/metadata" term="topic">Jews of Slovakia</category>
+  <link href="http://coverart.oclc.org/ImageWebSvc/oclc/57196604_140.jpg?SearchOrder=BT,AM,IN" rel="enclosure" />
+  <category scheme="http://daseproject.org/category/metadata" term="title">Knowledge and remembrance of the Holocaust in Slovakia </category>
+  <category scheme="http://daseproject.org/category/metadata" term="subtitle"> a public-opinion survey</category>
+  <category scheme="http://daseproject.org/category/metadata" term="format">Book : English</category>
+  <category scheme="http://daseproject.org/category/metadata" term="publisher">New York, NY : American Jewish Committee, [1999]</category>
+  <category scheme="http://daseproject.org/category/metadata" term="subject">Holocaust, Jewish (1939-1945) -- Public opinion -- Statistics.</category>
+  <category scheme="http://daseproject.org/category/metadata" term="subject">Holocaust, Jewish (1939-1945) -- Slovakia -- Public opinion -- Statistics.</category>
+  <category scheme="http://daseproject.org/category/metadata" term="subject">Jews -- Public opinion -- Statistics.</category>
+</entry>

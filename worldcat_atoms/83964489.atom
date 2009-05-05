@@ -1,0 +1,16 @@
+<entry xmlns="http://www.w3.org/2005/Atom">
+  <updated>2009-05-04T16:56:14-0500</updated>
+  <title>83964489</title>
+  <category scheme="http://daseproject.org/category/metadata" term="oclc_num">83964489</category>
+  <category scheme="http://daseproject.org/category/metadata" term="topic">Poland</category>
+  <link href="http://coverart.oclc.org/ImageWebSvc/oclc/83964489_140.jpg?SearchOrder=BT,AM,IN" rel="enclosure" />
+  <category scheme="http://daseproject.org/category/metadata" term="title">[Alexander Citron]</category>
+  <category scheme="http://daseproject.org/category/metadata" term="author">Stephen Steiner</category>
+  <category scheme="http://daseproject.org/category/metadata" term="author">Alexander Citron</category>
+  <category scheme="http://daseproject.org/category/metadata" term="format">Book : Biography : English</category>
+  <category scheme="http://daseproject.org/category/metadata" term="series">Lautenberg oral history collection of East European Jewish communities</category>
+  <category scheme="http://daseproject.org/category/metadata" term="publisher">[New York : American Jewish Committee, Oral History Library, 1977]</category>
+  <category scheme="http://daseproject.org/category/metadata" term="subject">Citron, Alexander.</category>
+  <category scheme="http://daseproject.org/category/metadata" term="subject">Jews -- Hungary -- Budapest.</category>
+  <category scheme="http://daseproject.org/category/metadata" term="subject">Jews -- Romania.</category>
+</entry>

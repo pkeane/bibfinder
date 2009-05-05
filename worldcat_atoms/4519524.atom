@@ -1,0 +1,13 @@
+<entry xmlns="http://www.w3.org/2005/Atom">
+  <updated>2009-05-04T16:56:11-0500</updated>
+  <title>4519524</title>
+  <category scheme="http://daseproject.org/category/metadata" term="oclc_num">4519524</category>
+  <category scheme="http://daseproject.org/category/metadata" term="topic">Czech Republic</category>
+  <link href="http://coverart.oclc.org/ImageWebSvc/oclc/4519524_140.jpg?SearchOrder=BT,AM,IN" rel="enclosure" />
+  <category scheme="http://daseproject.org/category/metadata" term="title">Jews in German society</category>
+  <category scheme="http://daseproject.org/category/metadata" term="subtitle"> Prague, 1860-1914.</category>
+  <category scheme="http://daseproject.org/category/metadata" term="author">Gary B Cohen</category>
+  <category scheme="http://daseproject.org/category/metadata" term="format">Book : English</category>
+  <category scheme="http://daseproject.org/category/metadata" term="publisher">[Atlanta, Emory University, 1977]</category>
+  <category scheme="http://daseproject.org/category/metadata" term="subject">Jews -- Czech Republic -- Prague -- History.</category>
+</entry>

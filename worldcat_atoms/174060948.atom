@@ -1,0 +1,11 @@
+<entry xmlns="http://www.w3.org/2005/Atom">
+  <updated>2009-05-04T16:56:03-0500</updated>
+  <title>174060948</title>
+  <category scheme="http://daseproject.org/category/metadata" term="oclc_num">174060948</category>
+  <category scheme="http://daseproject.org/category/metadata" term="topic">Jews of Latvia</category>
+  <link href="http://coverart.oclc.org/ImageWebSvc/oclc/174060948_140.jpg?SearchOrder=BT,AM,IN" rel="enclosure" />
+  <category scheme="http://daseproject.org/category/metadata" term="title">The Latavian Jewish courier.</category>
+  <category scheme="http://daseproject.org/category/metadata" term="publisher">Roslyn Heights, N.Y. : Jewish Survivors of Latvia.</category>
+  <category scheme="http://daseproject.org/category/metadata" term="subject">Holocaust survivors -- Periodicals.</category>
+  <category scheme="http://daseproject.org/category/metadata" term="subject">Jews, Latvian -- United States -- Periodicals.</category>
+</entry>

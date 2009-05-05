@@ -1,0 +1,16 @@
+<entry xmlns="http://www.w3.org/2005/Atom">
+  <updated>2009-05-04T16:56:08-0500</updated>
+  <title>123223183</title>
+  <category scheme="http://daseproject.org/category/metadata" term="oclc_num">123223183</category>
+  <category scheme="http://daseproject.org/category/metadata" term="topic">Jews of the Russian Empire</category>
+  <link href="http://coverart.oclc.org/ImageWebSvc/oclc/123223183_140.jpg?SearchOrder=BT,AM,IN" rel="enclosure" />
+  <category scheme="http://daseproject.org/category/metadata" term="title">Jewish and Russian revolutionaries exiled to Siberia, 1901-1917</category>
+  <category scheme="http://daseproject.org/category/metadata" term="author">Philip Desind</category>
+  <category scheme="http://daseproject.org/category/metadata" term="author">Israel Pressman</category>
+  <category scheme="http://daseproject.org/category/metadata" term="format">Book : Biography : English</category>
+  <category scheme="http://daseproject.org/category/metadata" term="series">Jewish studies</category>
+  <category scheme="http://daseproject.org/category/metadata" term="publisher">Lewiston : Edwin Mellen Press, 1991.</category>
+  <category scheme="http://daseproject.org/category/metadata" term="subject">Pressman, Israel, -- 1881-1955.</category>
+  <category scheme="http://daseproject.org/category/metadata" term="subject">Jews -- Soviet Union -- Biography.</category>
+  <category scheme="http://daseproject.org/category/metadata" term="subject">Jewish radicals -- Soviet Union -- Biography.</category>
+</entry>

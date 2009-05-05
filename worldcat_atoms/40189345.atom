@@ -1,0 +1,13 @@
+<entry xmlns="http://www.w3.org/2005/Atom">
+  <updated>2009-05-04T16:56:10-0500</updated>
+  <title>40189345</title>
+  <category scheme="http://daseproject.org/category/metadata" term="oclc_num">40189345</category>
+  <category scheme="http://daseproject.org/category/metadata" term="topic">Czech Republic</category>
+  <link href="http://coverart.oclc.org/ImageWebSvc/oclc/40189345_140.jpg?SearchOrder=BT,AM,IN" rel="enclosure" />
+  <category scheme="http://daseproject.org/category/metadata" term="title">Visit to the Prague ghetto.</category>
+  <category scheme="http://daseproject.org/category/metadata" term="author">Jacob Knoller</category>
+  <category scheme="http://daseproject.org/category/metadata" term="format">Book : English</category>
+  <category scheme="http://daseproject.org/category/metadata" term="publisher">New York, N.Y., &amp;copy;1941.</category>
+  <category scheme="http://daseproject.org/category/metadata" term="subject">Ghetto -- Prague.</category>
+  <category scheme="http://daseproject.org/category/metadata" term="subject">Jews -- Czech Republic -- Prague.</category>
+</entry>

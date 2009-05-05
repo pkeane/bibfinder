@@ -1,0 +1,16 @@
+<entry xmlns="http://www.w3.org/2005/Atom">
+  <updated>2009-05-04T16:56:14-0500</updated>
+  <title>53001052</title>
+  <category scheme="http://daseproject.org/category/metadata" term="oclc_num">53001052</category>
+  <category scheme="http://daseproject.org/category/metadata" term="topic">Jews of Lithuania</category>
+  <link href="http://coverart.oclc.org/ImageWebSvc/oclc/53001052_140.jpg?SearchOrder=BT,AM,IN" rel="enclosure" />
+  <category scheme="http://daseproject.org/category/metadata" term="title">Karaite Judaism </category>
+  <category scheme="http://daseproject.org/category/metadata" term="subtitle"> A guide to its history and literary sources</category>
+  <category scheme="http://daseproject.org/category/metadata" term="author">Meira Polliack</category>
+  <category scheme="http://daseproject.org/category/metadata" term="format">Book : English</category>
+  <category scheme="http://daseproject.org/category/metadata" term="series">Handbuch der Orientalistik.</category>
+  <category scheme="http://daseproject.org/category/metadata" term="publisher">Leiden ; Boston : Brill, 2003.</category>
+  <category scheme="http://daseproject.org/category/metadata" term="subject">Karaites.</category>
+  <category scheme="http://daseproject.org/category/metadata" term="subject">Karaites -- History.</category>
+  <category scheme="http://daseproject.org/category/metadata" term="subject">Karaieten.</category>
+</entry>

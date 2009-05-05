@@ -1,0 +1,14 @@
+<entry xmlns="http://www.w3.org/2005/Atom">
+  <updated>2009-05-04T16:56:10-0500</updated>
+  <title>31183055</title>
+  <category scheme="http://daseproject.org/category/metadata" term="oclc_num">31183055</category>
+  <category scheme="http://daseproject.org/category/metadata" term="topic">Czech Republic</category>
+  <link href="http://coverart.oclc.org/ImageWebSvc/oclc/31183055_140.jpg?SearchOrder=BT,AM,IN" rel="enclosure" />
+  <category scheme="http://daseproject.org/category/metadata" term="title">Sacred silences </category>
+  <category scheme="http://daseproject.org/category/metadata" term="subtitle"> photographs of Jewish Prague</category>
+  <category scheme="http://daseproject.org/category/metadata" term="author">Bernis von Zur Muehlen</category>
+  <category scheme="http://daseproject.org/category/metadata" term="format">Book : English</category>
+  <category scheme="http://daseproject.org/category/metadata" term="publisher">[Washington, D.C. : B'nai B'rith Klutznick National Jewish Museum, 199-?]</category>
+  <category scheme="http://daseproject.org/category/metadata" term="subject">Sepulchral monuments -- Czech Republic -- Prague.</category>
+  <category scheme="http://daseproject.org/category/metadata" term="subject">Jews -- Death.</category>
+</entry>

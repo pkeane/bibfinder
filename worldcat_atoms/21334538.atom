@@ -1,0 +1,15 @@
+<entry xmlns="http://www.w3.org/2005/Atom">
+  <updated>2009-05-04T16:56:08-0500</updated>
+  <title>21334538</title>
+  <category scheme="http://daseproject.org/category/metadata" term="oclc_num">21334538</category>
+  <category scheme="http://daseproject.org/category/metadata" term="topic">Jews of the Russian Empire</category>
+  <link href="http://coverart.oclc.org/ImageWebSvc/oclc/21334538_140.jpg?SearchOrder=BT,AM,IN" rel="enclosure" />
+  <category scheme="http://daseproject.org/category/metadata" term="title">Shtetl finder </category>
+  <category scheme="http://daseproject.org/category/metadata" term="subtitle"> Jewish communities in the 19th and early 20th centuries in the pale of settlement of Russia and Poland, and in Lithuania, Latvia, Galicia, and Bukovina, with names of residents</category>
+  <category scheme="http://daseproject.org/category/metadata" term="author">Chester G Cohen</category>
+  <category scheme="http://daseproject.org/category/metadata" term="format">Book : English :</category>
+  <category scheme="http://daseproject.org/category/metadata" term="publisher">Bowie, Md. : Heritage Books, 1989.</category>
+  <category scheme="http://daseproject.org/category/metadata" term="subject">Jews -- Russia -- Directories.</category>
+  <category scheme="http://daseproject.org/category/metadata" term="subject">Jews -- Poland -- Directories.</category>
+  <category scheme="http://daseproject.org/category/metadata" term="subject">Jews -- Austria -- Directories.</category>
+</entry>

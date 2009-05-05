@@ -1,0 +1,12 @@
+<entry xmlns="http://www.w3.org/2005/Atom">
+  <updated>2009-05-04T16:56:17-0500</updated>
+  <title>221243805</title>
+  <category scheme="http://daseproject.org/category/metadata" term="oclc_num">221243805</category>
+  <category scheme="http://daseproject.org/category/metadata" term="topic">Jews of Romania</category>
+  <link href="http://coverart.oclc.org/ImageWebSvc/oclc/221243805_140.jpg?SearchOrder=BT,AM,IN" rel="enclosure" />
+  <category scheme="http://daseproject.org/category/metadata" term="title">The Jews in Roumania </category>
+  <category scheme="http://daseproject.org/category/metadata" term="subtitle"> account of the proceedings at the trial of the Jews at Buseu.</category>
+  <category scheme="http://daseproject.org/category/metadata" term="format">Book : English</category>
+  <category scheme="http://daseproject.org/category/metadata" term="publisher">[N.i., Aust.? : [s.n.], ca. 1872]</category>
+  <category scheme="http://daseproject.org/category/metadata" term="subject">Jews -- Romania.</category>
+</entry>

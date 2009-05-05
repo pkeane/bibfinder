@@ -1,0 +1,15 @@
+<entry xmlns="http://www.w3.org/2005/Atom">
+  <updated>2009-05-04T16:56:10-0500</updated>
+  <title>48010512</title>
+  <category scheme="http://daseproject.org/category/metadata" term="oclc_num">48010512</category>
+  <category scheme="http://daseproject.org/category/metadata" term="topic">Jews of Greece</category>
+  <link href="http://coverart.oclc.org/ImageWebSvc/oclc/48010512_140.jpg?SearchOrder=BT,AM,IN" rel="enclosure" />
+  <category scheme="http://daseproject.org/category/metadata" term="title">Hamehune Modillano </category>
+  <category scheme="http://daseproject.org/category/metadata" term="subtitle"> the genealogical story of the Modiano family from 1570 to our days</category>
+  <category scheme="http://daseproject.org/category/metadata" term="author">Mario S Modiano</category>
+  <category scheme="http://daseproject.org/category/metadata" term="format">Book : eBook : English</category>
+  <category scheme="http://daseproject.org/category/metadata" term="publisher">Athens : M. Modiano, 2000.</category>
+  <category scheme="http://daseproject.org/category/metadata" term="subject">Modiano family.</category>
+  <category scheme="http://daseproject.org/category/metadata" term="subject">Jews -- Genealogy.</category>
+  <category scheme="http://daseproject.org/category/metadata" term="subject">Greece -- Genealogy.</category>
+</entry>

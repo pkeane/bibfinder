@@ -1,0 +1,14 @@
+<entry xmlns="http://www.w3.org/2005/Atom">
+  <updated>2009-05-04T16:56:17-0500</updated>
+  <title>61464843</title>
+  <category scheme="http://daseproject.org/category/metadata" term="oclc_num">61464843</category>
+  <category scheme="http://daseproject.org/category/metadata" term="topic">Former Yugoslavia</category>
+  <link href="http://coverart.oclc.org/ImageWebSvc/oclc/61464843_140.jpg?SearchOrder=BT,AM,IN" rel="enclosure" />
+  <category scheme="http://daseproject.org/category/metadata" term="title">Pogrom na makedonskite evrei = The pogrom of Macedonian Jews / Jovan Pavlovski.</category>
+  <category scheme="http://daseproject.org/category/metadata" term="author">Jovan Pavlovski</category>
+  <category scheme="http://daseproject.org/category/metadata" term="format">Book : English</category>
+  <category scheme="http://daseproject.org/category/metadata" term="publisher">Skopje : Mi-An, 2003.</category>
+  <category scheme="http://daseproject.org/category/metadata" term="subject">Jews -- Macedonia -- History.</category>
+  <category scheme="http://daseproject.org/category/metadata" term="subject">Pogroms -- Macedonia -- History.</category>
+  <category scheme="http://daseproject.org/category/metadata" term="subject">Jews -- Persecutions -- Macedonia.</category>
+</entry>

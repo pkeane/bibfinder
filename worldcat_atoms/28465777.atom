@@ -1,0 +1,13 @@
+<entry xmlns="http://www.w3.org/2005/Atom">
+  <updated>2009-05-04T16:56:10-0500</updated>
+  <title>28465777</title>
+  <category scheme="http://daseproject.org/category/metadata" term="oclc_num">28465777</category>
+  <category scheme="http://daseproject.org/category/metadata" term="topic">Jews of Greece</category>
+  <link href="http://coverart.oclc.org/ImageWebSvc/oclc/28465777_140.jpg?SearchOrder=BT,AM,IN" rel="enclosure" />
+  <category scheme="http://daseproject.org/category/metadata" term="title">The passage of the barbarians </category>
+  <category scheme="http://daseproject.org/category/metadata" term="subtitle"> contribution to the history of the deportation and resistance of Greek Jews</category>
+  <category scheme="http://daseproject.org/category/metadata" term="author">Miriam Novitch</category>
+  <category scheme="http://daseproject.org/category/metadata" term="format">Book : English :</category>
+  <category scheme="http://daseproject.org/category/metadata" term="series">Jews in wartime, 1939-1945</category>
+  <category scheme="http://daseproject.org/category/metadata" term="publisher">Hull : Glenvil Group, 1989.</category>
+</entry>

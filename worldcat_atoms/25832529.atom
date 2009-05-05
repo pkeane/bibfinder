@@ -1,0 +1,15 @@
+<entry xmlns="http://www.w3.org/2005/Atom">
+  <updated>2009-05-04T16:56:17-0500</updated>
+  <title>25832529</title>
+  <category scheme="http://daseproject.org/category/metadata" term="oclc_num">25832529</category>
+  <category scheme="http://daseproject.org/category/metadata" term="topic">Jews of Slovakia</category>
+  <link href="http://coverart.oclc.org/ImageWebSvc/oclc/25832529_140.jpg?SearchOrder=BT,AM,IN" rel="enclosure" />
+  <category scheme="http://daseproject.org/category/metadata" term="title">Stropkov memorial book </category>
+  <category scheme="http://daseproject.org/category/metadata" term="subtitle"> the history of the town of Stropkov since the founding of the community until the year 1914, the outbreak of World War I</category>
+  <category scheme="http://daseproject.org/category/metadata" term="author">Avraham Avish Weinstein, Hakohein.</category>
+  <category scheme="http://daseproject.org/category/metadata" term="format">Book : Biography : English :</category>
+  <category scheme="http://daseproject.org/category/metadata" term="publisher">Brooklyn, N.Y. : A.A. Weinstein, 1968.</category>
+  <category scheme="http://daseproject.org/category/metadata" term="subject">Jews -- Slovakia -- Stropkov -- History.</category>
+  <category scheme="http://daseproject.org/category/metadata" term="subject">Rabbis -- Slovakia -- Stropkov -- Biography.</category>
+  <category scheme="http://daseproject.org/category/metadata" term="subject">Hasidim -- Slovakia -- Stropkov -- Biography.</category>
+</entry>

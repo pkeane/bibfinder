@@ -1,0 +1,13 @@
+<entry xmlns="http://www.w3.org/2005/Atom">
+  <updated>2009-05-04T16:56:00-0500</updated>
+  <title>26808739</title>
+  <category scheme="http://daseproject.org/category/metadata" term="oclc_num">26808739</category>
+  <category scheme="http://daseproject.org/category/metadata" term="topic">General Surveys</category>
+  <link href="http://coverart.oclc.org/ImageWebSvc/oclc/26808739_140.jpg?SearchOrder=BT,AM,IN" rel="enclosure" />
+  <category scheme="http://daseproject.org/category/metadata" term="title">The path of the righteous </category>
+  <category scheme="http://daseproject.org/category/metadata" term="subtitle"> gentile rescuers of Jews during the Holocaust</category>
+  <category scheme="http://daseproject.org/category/metadata" term="author">Mordecai Paldiel</category>
+  <category scheme="http://daseproject.org/category/metadata" term="format">Book : Biography : English</category>
+  <category scheme="http://daseproject.org/category/metadata" term="publisher">Hoboken, N.J. : Ktav, &amp;copy;1993.</category>
+  <category scheme="http://daseproject.org/category/metadata" term="subject">Righteous Gentiles in the Holocaust -- Biography.</category>
+</entry>

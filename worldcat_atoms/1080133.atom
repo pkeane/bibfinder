@@ -1,0 +1,14 @@
+<entry xmlns="http://www.w3.org/2005/Atom">
+  <updated>2009-05-04T16:56:04-0500</updated>
+  <title>1080133</title>
+  <category scheme="http://daseproject.org/category/metadata" term="oclc_num">1080133</category>
+  <category scheme="http://daseproject.org/category/metadata" term="topic">Jews of Hungary</category>
+  <link href="http://coverart.oclc.org/ImageWebSvc/oclc/1080133_140.jpg?SearchOrder=BT,AM,IN" rel="enclosure" />
+  <category scheme="http://daseproject.org/category/metadata" term="title">Eichmann and the destruction of Hungarian Jewry.</category>
+  <category scheme="http://daseproject.org/category/metadata" term="author">Randolph L Braham</category>
+  <category scheme="http://daseproject.org/category/metadata" term="format">Book : English :</category>
+  <category scheme="http://daseproject.org/category/metadata" term="publisher">New York, World Federation of Hungarian Jews; distributed by Twayne Publishers, [1961]</category>
+  <category scheme="http://daseproject.org/category/metadata" term="subject">Eichmann, Adolf, -- 1906-1962.</category>
+  <category scheme="http://daseproject.org/category/metadata" term="subject">Jews -- Persecutions -- Hungary.</category>
+  <category scheme="http://daseproject.org/category/metadata" term="subject">World War, 1939-1945 -- Jews.</category>
+</entry>

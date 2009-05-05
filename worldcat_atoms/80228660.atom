@@ -1,0 +1,14 @@
+<entry xmlns="http://www.w3.org/2005/Atom">
+  <updated>2009-05-04T16:56:03-0500</updated>
+  <title>80228660</title>
+  <category scheme="http://daseproject.org/category/metadata" term="oclc_num">80228660</category>
+  <category scheme="http://daseproject.org/category/metadata" term="topic">Jews of Latvia</category>
+  <link href="http://coverart.oclc.org/ImageWebSvc/oclc/80228660_140.jpg?SearchOrder=BT,AM,IN" rel="enclosure" />
+  <category scheme="http://daseproject.org/category/metadata" term="title">A demographic study of the Latvian Jewish population between the two world wars</category>
+  <category scheme="http://daseproject.org/category/metadata" term="author">David Y Ebner</category>
+  <category scheme="http://daseproject.org/category/metadata" term="format">Book : English</category>
+  <category scheme="http://daseproject.org/category/metadata" term="publisher">[1970?]</category>
+  <category scheme="http://daseproject.org/category/metadata" term="subject">Jews -- Latvia -- History -- 20th century.</category>
+  <category scheme="http://daseproject.org/category/metadata" term="subject">Jews -- Latvia -- Population.</category>
+  <category scheme="http://daseproject.org/category/metadata" term="subject">Latvia -- Population.</category>
+</entry>

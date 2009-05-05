@@ -1,0 +1,13 @@
+<entry xmlns="http://www.w3.org/2005/Atom">
+  <updated>2009-05-04T16:56:12-0500</updated>
+  <title>17296321</title>
+  <category scheme="http://daseproject.org/category/metadata" term="oclc_num">17296321</category>
+  <category scheme="http://daseproject.org/category/metadata" term="topic">Belorussia</category>
+  <link href="http://coverart.oclc.org/ImageWebSvc/oclc/17296321_140.jpg?SearchOrder=BT,AM,IN" rel="enclosure" />
+  <category scheme="http://daseproject.org/category/metadata" term="title">Sholem Aleichem's Wandering star, and other plays of Jewish life</category>
+  <category scheme="http://daseproject.org/category/metadata" term="author">David S Lifson</category>
+  <category scheme="http://daseproject.org/category/metadata" term="author"> Sholem Aleichem</category>
+  <category scheme="http://daseproject.org/category/metadata" term="format">Book : English</category>
+  <category scheme="http://daseproject.org/category/metadata" term="publisher">New York : Cornwall Books, &amp;copy;1988.</category>
+  <category scheme="http://daseproject.org/category/metadata" term="subject">Jews -- Drama.</category>
+</entry>

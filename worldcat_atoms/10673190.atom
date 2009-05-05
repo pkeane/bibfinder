@@ -1,0 +1,12 @@
+<entry xmlns="http://www.w3.org/2005/Atom">
+  <updated>2009-05-04T16:56:12-0500</updated>
+  <title>10673190</title>
+  <category scheme="http://daseproject.org/category/metadata" term="oclc_num">10673190</category>
+  <category scheme="http://daseproject.org/category/metadata" term="topic">Belorussia</category>
+  <link href="http://coverart.oclc.org/ImageWebSvc/oclc/10673190_140.jpg?SearchOrder=BT,AM,IN" rel="enclosure" />
+  <category scheme="http://daseproject.org/category/metadata" term="title">History of the Jews of Pinsk, 1506-1706.</category>
+  <category scheme="http://daseproject.org/category/metadata" term="author">Mordekhai Nadav</category>
+  <category scheme="http://daseproject.org/category/metadata" term="format">Book : English</category>
+  <category scheme="http://daseproject.org/category/metadata" term="publisher">[Jerusalem, 1964]</category>
+  <category scheme="http://daseproject.org/category/metadata" term="subject">Jews -- Belarus -- Pinsk -- History.</category>
+</entry>

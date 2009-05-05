@@ -1,0 +1,15 @@
+<entry xmlns="http://www.w3.org/2005/Atom">
+  <updated>2009-05-04T16:56:14-0500</updated>
+  <title>60758676</title>
+  <category scheme="http://daseproject.org/category/metadata" term="oclc_num">60758676</category>
+  <category scheme="http://daseproject.org/category/metadata" term="topic">Poland</category>
+  <link href="http://coverart.oclc.org/ImageWebSvc/oclc/60758676_140.jpg?SearchOrder=BT,AM,IN" rel="enclosure" />
+  <category scheme="http://daseproject.org/category/metadata" term="title">The Holocaust under the Antonescu government </category>
+  <category scheme="http://daseproject.org/category/metadata" term="subtitle"> historical and statistical data about Jews in Romania, 1940-1944</category>
+  <category scheme="http://daseproject.org/category/metadata" term="author">Marcu Rozen</category>
+  <category scheme="http://daseproject.org/category/metadata" term="format">Book : English : 3rd ed., rev. and completed</category>
+  <category scheme="http://daseproject.org/category/metadata" term="publisher">Bucharest : A.R.J.V.H., 2004.</category>
+  <category scheme="http://daseproject.org/category/metadata" term="subject">Holocaust, Jewish (1939-1945) -- Romania.</category>
+  <category scheme="http://daseproject.org/category/metadata" term="subject">Jews -- Government policy -- Romania.</category>
+  <category scheme="http://daseproject.org/category/metadata" term="subject">Holocaust, Jewish (1939-1945) -- Romania -- Statistics.</category>
+</entry>
